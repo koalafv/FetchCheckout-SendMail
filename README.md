@@ -80,8 +80,7 @@ Jeśli w konsoli zobaczysz błąd **401**, oznacza to, że Twoja sesja wygasła.
    * Kliknij na niego **Prawym Przyciskiem Myszy** → **Copy** → **Copy as cURL**.
 
    👇 **Zobacz na screenie jak to zrobić:**
-   <img width="100%" alt="Poradnik cookies and headers" src="[https://github.com/user-attachments/assets/05c30417-9b49-43e9-951d-59cad8ed9e5a](https://github.com/user-attachments/assets/05c30417-9b49-43e9-951d-59cad8ed9e5a)" />
-
+<img width="100%" alt="Poradnik cookies and headers" src="https://github.com/user-attachments/assets/05c30417-9b49-43e9-951d-59cad8ed9e5a" />
 4. **Przekonwertuj cURL na Python**
    * Wejdź na stronę: 👉 [curlconverter.com](https://curlconverter.com)
    * Wklej skopiowany kod w pole tekstowe.
