@@ -1,0 +1,1095 @@
+2025-12-20 15:39:47,545 - EmailService - INFO - Connecting to SMTP smtp.gmail.com...
+2025-12-20 15:39:49,411 - EmailService - INFO - HTML Email sent to lukaszkramorz112@gmail.com
+2025-12-20 15:45:20,455 - EmailService - INFO - Starting bulk campaign 'Monthly Report - October' for 2 recipients.
+2025-12-20 15:45:20,460 - EmailService - INFO - Connecting to SMTP smtp.gmail.com...
+2025-12-20 15:45:22,313 - EmailService - INFO - HTML Email sent to lukaszkramorz112@gmail.com
+2025-12-20 15:45:23,914 - EmailService - INFO - Skipping lukaszkramorz112@gmail.com - Already sent.
+2025-12-20 15:45:23,915 - EmailService - INFO - Bulk campaign finished.
+2025-12-20 15:45:41,992 - EmailService - INFO - Starting bulk campaign 'Monthly Report - October' for 2 recipients.
+2025-12-20 15:45:41,995 - EmailService - INFO - Skipping lukaszkramorz112@gmail.com - Already sent.
+2025-12-20 15:45:41,996 - EmailService - INFO - Skipping lukaszkramorz112@gmail.com - Already sent.
+2025-12-20 15:45:41,997 - EmailService - INFO - Bulk campaign finished.
+2025-12-20 16:34:21,572 - INFO - 🚀 Starting campaign for 1 lines...
+2025-12-20 16:34:21,574 - INFO - ⏭️ Skipped lukaszkramorz112@gmail.com - already sent.
+2025-12-20 16:34:21,574 - INFO - 🏁 Campaign finished.
+2025-12-20 16:34:31,362 - INFO - 🚀 Starting campaign for 1 lines...
+2025-12-20 16:34:34,533 - INFO - ✅ Sent to: lukaszkramorz112@gmail.com
+2025-12-20 16:34:35,558 - INFO - 🏁 Campaign finished.
+2025-12-20 16:36:13,496 - INFO - 🚀 Starting campaign for 167 lines...
+2025-12-20 16:36:15,304 - INFO - ✅ Sent to: majewskikacper939@gmail.com
+2025-12-20 16:36:18,054 - INFO - ✅ Sent to: jakub.nowak0219@gmail.com
+2025-12-20 16:36:20,844 - INFO - ✅ Sent to: kocur251@gmail.com
+2025-12-20 16:36:23,696 - INFO - ✅ Sent to: krystianmezydlo1997@wp.pl
+2025-12-20 16:36:26,963 - INFO - ✅ Sent to: danki39991@gmail.com
+2025-12-20 16:36:30,024 - INFO - ✅ Sent to: wikikarolinak89@gmail.com
+2025-12-20 16:36:32,916 - INFO - ✅ Sent to: komorowskibarman@gmail.com
+2025-12-20 16:36:35,694 - INFO - ✅ Sent to: krzysmichalski76@gmail.com
+2025-12-20 16:36:38,474 - INFO - ✅ Sent to: jacekpluta3@gmail.com
+2025-12-20 16:36:41,324 - INFO - ✅ Sent to: kamiilomichalak2001@gmail.com
+2025-12-20 16:36:44,154 - INFO - ✅ Sent to: jakubbaumann007@gmail.com
+2025-12-20 16:36:47,003 - INFO - ✅ Sent to: mail3445457@protonmail.com
+2025-12-20 16:36:50,924 - INFO - ✅ Sent to: piotrsarkowicz3@gmail.com
+2025-12-20 16:36:54,003 - INFO - ✅ Sent to: brozekwojciechowski13@gmail.com
+2025-12-20 16:36:56,874 - INFO - ✅ Sent to: krolkarol05@gmail.com
+2025-12-20 16:36:59,944 - INFO - ✅ Sent to: msrsevi@gmail.com
+2025-12-20 16:37:02,804 - INFO - ✅ Sent to: mateuszstacewicz145@gmail.com
+2025-12-20 16:37:05,986 - INFO - ✅ Sent to: wickanikola@gmail.com
+2025-12-20 16:37:09,174 - INFO - ✅ Sent to: iwonamichalczyk@op.pl
+2025-12-20 16:37:12,016 - INFO - ✅ Sent to: mariusz_bee@wp.pl
+2025-12-20 16:37:16,224 - INFO - ✅ Sent to: krykwi1981@gmail.com
+2025-12-20 16:37:19,264 - INFO - ✅ Sent to: qvba111@gmail.com
+2025-12-20 16:37:22,033 - INFO - ✅ Sent to: wujektomaszek1@gmail.com
+2025-12-20 16:37:24,966 - INFO - ✅ Sent to: neo20210529@gmail.com
+2025-12-20 16:37:27,884 - INFO - ✅ Sent to: judyta.kowalewska@gmail.com
+2025-12-20 16:37:31,174 - INFO - ✅ Sent to: jarekkoldras8@gmail.com
+2025-12-20 16:37:33,935 - INFO - ✅ Sent to: a.kalaska78@gmail.com
+2025-12-20 16:37:38,044 - INFO - ✅ Sent to: k.trzaskowski02@gmail.com
+2025-12-20 16:37:40,894 - INFO - ✅ Sent to: celt864@gmail.com
+2025-12-20 16:37:43,694 - INFO - ✅ Sent to: kacpersozoniuk03@gmail.com
+2025-12-20 16:37:46,764 - INFO - ✅ Sent to: jacekjesion85@interia.pl
+2025-12-20 16:37:49,804 - INFO - ✅ Sent to: rado.r.siw@gmail.com
+2025-12-20 16:37:54,005 - INFO - ✅ Sent to: miloszgwizdon3@gmail.com
+2025-12-20 16:37:56,837 - INFO - ✅ Sent to: marcindolata70@gmail.com
+2025-12-20 16:37:59,836 - INFO - ✅ Sent to: piotr180704@interia.pl
+2025-12-20 16:38:04,523 - INFO - ✅ Sent to: kacpiii73@gmail.com
+2025-12-20 16:38:07,373 - INFO - ✅ Sent to: robertboron1@gmail.com
+2025-12-20 16:38:10,293 - INFO - ✅ Sent to: wojtekceglarek@interia.pl
+2025-12-20 16:38:13,104 - INFO - ✅ Sent to: m.lesiecki@wp.pl
+2025-12-20 16:38:16,603 - INFO - ✅ Sent to: suchym658@gmail.com
+2025-12-20 16:38:20,543 - INFO - ✅ Sent to: Krzysztof4421309@interia.pl
+2025-12-20 16:38:21,571 - INFO - ⏭️ Skipped rado.r.siw@gmail.com - already sent.
+2025-12-20 16:38:23,363 - INFO - ✅ Sent to: kosiedowskikamil@gmail.com
+2025-12-20 16:38:26,263 - INFO - ✅ Sent to: lisowskapaula4@gmail.com
+2025-12-20 16:38:29,154 - INFO - ✅ Sent to: daniel.slabosz@onet.eu
+2025-12-20 16:38:33,654 - INFO - ✅ Sent to: damian_stelmach07@o2.pl
+2025-12-20 16:38:36,453 - INFO - ✅ Sent to: Galatustm@gmail.com
+2025-12-20 16:38:39,594 - INFO - ✅ Sent to: murbanski513@gmail.com
+2025-12-20 16:38:42,363 - INFO - ✅ Sent to: fabian.lason12@icloud.com
+2025-12-20 16:38:45,114 - INFO - ✅ Sent to: przemyslawdach84@gmail.com
+2025-12-20 16:38:48,075 - INFO - ✅ Sent to: tomaszzwolski14@gmail.com
+2025-12-20 16:38:52,464 - INFO - ✅ Sent to: trackidawid070@gmail.com
+2025-12-20 16:38:55,664 - INFO - ✅ Sent to: mateuszzalewski601@gmail.com
+2025-12-20 16:38:59,154 - INFO - ✅ Sent to: damian.feliksiak@o2.pl
+2025-12-20 16:39:06,094 - INFO - ✅ Sent to: orszulikdamian123@gmail.com
+2025-12-20 16:39:09,456 - INFO - ✅ Sent to: filipowiczlukasz878@gmail.com
+2025-12-20 16:39:12,544 - INFO - ✅ Sent to: denicho.morawiec@gmail.com
+2025-12-20 16:39:15,843 - INFO - ✅ Sent to: pawel97155@gmail.com
+2025-12-20 16:39:19,324 - INFO - ✅ Sent to: marcinzieja9@gmail.com
+2025-12-20 16:39:22,174 - INFO - ✅ Sent to: kamilakonieczna999@gmail.com
+2025-12-20 16:39:25,244 - INFO - ✅ Sent to: kamedevgeniy@gmail.com
+2025-12-20 16:39:28,113 - INFO - ✅ Sent to: nikodemmikolajczyk94@gmail.com
+2025-12-20 16:39:32,374 - INFO - ✅ Sent to: bartoszrom25@gmail.com
+2025-12-20 16:39:35,586 - INFO - ✅ Sent to: damien19911991@gmail.com
+2025-12-20 16:39:38,713 - INFO - ✅ Sent to: piotr.stankiewicz19@gmail.com
+2025-12-20 16:39:41,835 - INFO - ✅ Sent to: piotrek24kurzyk@gmail.com
+2025-12-20 16:39:44,804 - INFO - ✅ Sent to: marekzajacmail@gmail.com
+2025-12-20 16:39:48,794 - INFO - ✅ Sent to: chrzanek2006@gmail.com
+2025-12-20 16:39:51,774 - INFO - ✅ Sent to: kacperrochowiak2003@gmail.com
+2025-12-20 16:39:54,634 - INFO - ✅ Sent to: Szymonsudu2000@gmail.com
+2025-12-20 16:39:57,503 - INFO - ✅ Sent to: patrykuciniak985@gmail.com
+2025-12-20 16:40:00,703 - INFO - ✅ Sent to: drkamil2002@wp.pl
+2025-12-20 16:40:01,724 - INFO - ⏭️ Skipped patrykuciniak985@gmail.com - already sent.
+2025-12-20 16:40:03,534 - INFO - ✅ Sent to: rottef9@gmail.com
+2025-12-20 16:40:06,497 - INFO - ✅ Sent to: dawid.grykalowski@onet.pl
+2025-12-20 16:40:09,384 - INFO - ✅ Sent to: kacperb7892@gmail.com
+2025-12-20 16:40:12,236 - INFO - ✅ Sent to: sebcio062@gmail.com
+2025-12-20 16:40:15,203 - INFO - ✅ Sent to: tomczakh@wp.pl
+2025-12-20 16:40:17,916 - INFO - ✅ Sent to: dawidos486@wp.pl
+2025-12-20 16:40:20,703 - INFO - ✅ Sent to: adrian.kawecki1@wp.pl
+2025-12-20 16:40:23,533 - INFO - ✅ Sent to: fwyczarski@gmail.com
+2025-12-20 16:40:26,364 - INFO - ✅ Sent to: mateusz10206@interia.pl
+2025-12-20 16:40:29,363 - INFO - ✅ Sent to: stepien.dominik95@gmail.com
+2025-12-20 16:40:32,324 - INFO - ✅ Sent to: ttomek.tz23@gmail.com
+2025-12-20 16:40:35,286 - INFO - ✅ Sent to: hubertmichal@interia.pl
+2025-12-20 16:40:38,036 - INFO - ✅ Sent to: bzdon68@gmail.com
+2025-12-20 16:40:40,903 - INFO - ✅ Sent to: kubamajewski201@icloud.com
+2025-12-20 16:40:43,663 - INFO - ✅ Sent to: patrykapk123@gmail.com
+2025-12-20 16:40:46,433 - INFO - ✅ Sent to: maria.pawlak12345@gmail.com
+2025-12-20 16:40:50,734 - INFO - ✅ Sent to: sewerynwiktor2@gmail.com
+2025-12-20 16:40:53,404 - INFO - ✅ Sent to: patrykslojkow123@gmail.com
+2025-12-20 16:40:56,394 - INFO - ✅ Sent to: darysiu123@wp.pl
+2025-12-20 16:41:00,877 - INFO - ✅ Sent to: zdunskiartur95@gmail.com
+2025-12-20 16:41:03,773 - INFO - ✅ Sent to: kwiecien963@gmail.com
+2025-12-20 16:41:06,816 - INFO - ✅ Sent to: filipoborzo2006@gmail.com
+2025-12-20 16:41:09,676 - INFO - ✅ Sent to: dominikbudzikowski@gmail.com
+2025-12-20 16:41:12,344 - INFO - ✅ Sent to: jakubwudarczyk96@gmail.com
+2025-12-20 16:41:15,103 - INFO - ✅ Sent to: aleksandrawoldan@gmail.com
+2025-12-20 16:41:17,913 - INFO - ✅ Sent to: mail3873830@protonmail.com
+2025-12-20 16:41:20,593 - INFO - ✅ Sent to: d6534531@gmail.com
+2025-12-20 16:41:23,295 - INFO - ✅ Sent to: osioramanda@gmail.com
+2025-12-20 16:41:26,066 - INFO - ✅ Sent to: robert.187@wp.pl
+2025-12-20 16:41:29,243 - INFO - ✅ Sent to: Justynanarloch2@gmail.com
+2025-12-20 16:41:32,106 - INFO - ✅ Sent to: arturgruszczynski@spoko.pl
+2025-12-20 16:41:34,994 - INFO - ✅ Sent to: bartoszgronowicz@gmail.com
+2025-12-20 16:41:37,824 - INFO - ✅ Sent to: patkahamerla1998@wp.pl
+2025-12-20 16:41:40,824 - INFO - ✅ Sent to: darekkupczyk82@gmail.com
+2025-12-20 16:41:43,696 - INFO - ✅ Sent to: orkowskadominika@gmail.com
+2025-12-20 16:41:46,515 - INFO - ✅ Sent to: marczukmateusz8@gmail.com
+2025-12-20 16:41:49,314 - INFO - ✅ Sent to: karolmasloelwski@gmail.com
+2025-12-20 16:41:52,204 - INFO - ✅ Sent to: pyr.mat2000@gmail.com
+2025-12-20 16:41:55,066 - INFO - ✅ Sent to: szympixx@gmail.com
+2025-12-20 16:41:57,824 - INFO - ✅ Sent to: kubanek.igor2003@o2.pl
+2025-12-20 16:42:00,534 - INFO - ✅ Sent to: tomek.szkup-81@wp.pl
+2025-12-20 16:42:03,133 - INFO - ✅ Sent to: szulcernest667@gmail.com
+2025-12-20 16:42:05,896 - INFO - ✅ Sent to: dymoala@gmail.com
+2025-12-20 16:42:08,563 - INFO - ✅ Sent to: mail5236987@protonmail.com
+2025-12-20 16:42:12,354 - INFO - ✅ Sent to: damixmika@o2.pl
+2025-12-20 16:42:15,214 - INFO - ✅ Sent to: Rakpatryk733@gmail.com
+2025-12-20 16:42:18,085 - INFO - ✅ Sent to: anna.socha9752@gmail.com
+2025-12-20 16:42:20,854 - INFO - ✅ Sent to: ds1756463@gmail.com
+2025-12-20 16:42:23,626 - INFO - ✅ Sent to: bartoszdrzazga55@gmail.com
+2025-12-20 16:42:27,714 - INFO - ✅ Sent to: borys.trzepacz@o2.pl
+2025-12-20 16:42:30,584 - INFO - ✅ Sent to: grzybekbartek989@gmail.com
+2025-12-20 16:42:33,363 - INFO - ✅ Sent to: zkamil709@gmail.com
+2025-12-20 16:42:36,106 - INFO - ✅ Sent to: krzysztofkochmanski93@gmail.com
+2025-12-20 16:42:39,016 - INFO - ✅ Sent to: pienkowskimichal909@gmail.com
+2025-12-20 16:42:41,694 - INFO - ✅ Sent to: konradpalkowski0@gmail.com
+2025-12-20 16:42:44,704 - INFO - ✅ Sent to: escobrato152@gmail.com
+2025-12-20 16:42:47,395 - INFO - ✅ Sent to: dj.kuberson10@gmail.com
+2025-12-20 16:42:50,246 - INFO - ✅ Sent to: blazejrudnik389@gmail.com
+2025-12-20 16:42:53,283 - INFO - ✅ Sent to: kacper.skrzypczak18@onet.pl
+2025-12-20 16:42:56,083 - INFO - ✅ Sent to: piperzycasebastian@gmail.com
+2025-12-20 16:42:59,034 - INFO - ✅ Sent to: robinek040@gmail.com
+2025-12-20 16:43:01,814 - INFO - ✅ Sent to: michal12matusiak@gmail.com
+2025-12-20 16:43:04,555 - INFO - ✅ Sent to: kredka_kk@wp.pl
+2025-12-20 16:43:07,194 - INFO - ✅ Sent to: adrian.walczak0408@gmail.com
+2025-12-20 16:43:09,994 - INFO - ✅ Sent to: marcoxass@gmail.com
+2025-12-20 16:43:12,874 - INFO - ✅ Sent to: patryk.pie@wp.pl
+2025-12-20 16:50:16,520 - ERROR - ❌ Failed to send to kasprzykk90@gmail.com: [Errno 11001] getaddrinfo failed
+2025-12-20 16:50:17,529 - ERROR - ❌ Failed to send to damian.kazun863@onet.pl: [Errno 11001] getaddrinfo failed
+2025-12-20 16:50:18,538 - ERROR - ❌ Failed to send to karolciaikrzysiek@gmail.com: [Errno 11001] getaddrinfo failed
+2025-12-20 16:50:19,561 - ERROR - ❌ Failed to send to Styliczny@interia.pl: [Errno 11001] getaddrinfo failed
+2025-12-20 16:50:20,569 - ERROR - ❌ Failed to send to lukasz_musiala@o2.pl: [Errno 11001] getaddrinfo failed
+2025-12-20 16:50:52,924 - INFO - ⏭️ Skipped zkamil709@gmail.com - already sent.
+2025-12-20 16:50:52,932 - ERROR - ❌ Failed to send to lobockiszymon@gmail.com: [Errno 11001] getaddrinfo failed
+2025-12-20 16:50:53,934 - INFO - ⏭️ Skipped piotrek24kurzyk@gmail.com - already sent.
+2025-12-20 16:50:55,662 - INFO - ✅ Sent to: mail5044498@protonmail.com
+2025-12-20 16:50:59,322 - INFO - ✅ Sent to: newhome.1312@gmail.com
+2025-12-20 16:51:02,532 - INFO - ✅ Sent to: Bartek.rybicki79789@interia.pl
+2025-12-20 16:51:03,548 - INFO - ⏭️ Skipped Bartek.rybicki79789@interia.pl - already sent.
+2025-12-20 16:51:05,146 - INFO - ✅ Sent to: ziomale004@interia.pl
+2025-12-20 16:51:07,902 - INFO - ✅ Sent to: jeepmarcel@wp.pl
+2025-12-20 16:51:10,893 - INFO - ✅ Sent to: nowamaciej07@gmail.com
+2025-12-20 16:51:13,662 - INFO - ✅ Sent to: paulina-strzelec@o2.pl
+2025-12-20 16:51:16,622 - INFO - ✅ Sent to: janmiet28@gmail.com
+2025-12-20 16:51:19,370 - INFO - ✅ Sent to: jakubpieczkowski4@gmail.com
+2025-12-20 16:51:22,031 - INFO - ✅ Sent to: bobek860@wp.pl
+2025-12-20 16:51:24,810 - INFO - ✅ Sent to: czesiekch@vp.pl
+2025-12-20 16:51:27,781 - INFO - ✅ Sent to: marekbaran197@gmail.com
+2025-12-20 16:51:30,763 - INFO - ✅ Sent to: dawid.cecek@icloud.com
+2025-12-20 16:51:33,621 - INFO - ✅ Sent to: adamek230211@gmail.com
+2025-12-20 16:51:36,502 - INFO - ✅ Sent to: m.gajdzinski07@onet.pl
+2025-12-20 16:51:39,450 - INFO - ✅ Sent to: tomaszm639@gmail.com
+2025-12-20 16:51:42,211 - INFO - ✅ Sent to: rafal.murawski.223@gmail.com
+2025-12-20 16:51:44,992 - INFO - ✅ Sent to: dawidkorsak6@gmail.com
+2025-12-20 16:51:47,961 - INFO - ✅ Sent to: lukaszkramorz112@gmail.com
+2025-12-20 16:51:48,986 - INFO - 🏁 Campaign finished.
+2025-12-29 14:36:33,666 - INFO - 🚀 Starting campaign for 299 lines...
+2025-12-29 14:36:37,696 - INFO - ✅ Sent to: aspen@pseudonim.pl
+2025-12-29 14:36:41,074 - INFO - ✅ Sent to: majewskikacper939@gmail.com
+2025-12-29 14:36:45,273 - INFO - ✅ Sent to: jakub.nowak0219@gmail.com
+2025-12-29 14:36:48,549 - INFO - ✅ Sent to: patrykapk123@gmail.com
+2025-12-29 14:36:51,763 - INFO - 🚀 Starting campaign for 299 lines...
+2025-12-29 14:36:51,764 - INFO - ⏭️ Skipped aspen@pseudonim.pl - already sent.
+2025-12-29 14:36:51,765 - INFO - ⏭️ Skipped majewskikacper939@gmail.com - already sent.
+2025-12-29 14:36:51,765 - INFO - ⏭️ Skipped jakub.nowak0219@gmail.com - already sent.
+2025-12-29 14:36:51,766 - INFO - ⏭️ Skipped patrykapk123@gmail.com - already sent.
+2025-12-29 14:36:54,491 - INFO - ✅ Sent to: orszulikdamian123@gmail.com
+2025-12-29 14:36:57,049 - INFO - ✅ Sent to: 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:36:59,460 - INFO - ✅ Sent to: jacekjesion85@interia.pl
+2025-12-29 14:37:01,964 - INFO - ✅ Sent to: zkamil709@gmail.com
+2025-12-29 14:37:05,401 - INFO - ✅ Sent to: sewerynwiktor2@gmail.com
+2025-12-29 14:37:07,906 - INFO - ✅ Sent to: lukaszkramorz112@gmail.com
+2025-12-29 14:37:09,802 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. ffacd0b85a97d-4324ea1b1b1sm61959184f8f.3 - gsmtp')}
+2025-12-29 14:37:12,261 - INFO - ✅ Sent to: piotrsarkowicz3@gmail.com
+2025-12-29 14:37:14,820 - INFO - ✅ Sent to: m.gajdzinski07@onet.pl
+2025-12-29 14:37:17,283 - INFO - ✅ Sent to: karolciaikrzysiek@gmail.com
+2025-12-29 14:37:19,735 - INFO - ✅ Sent to: czesiekch@vp.pl
+2025-12-29 14:37:22,193 - INFO - ✅ Sent to: janmiet28@gmail.com
+2025-12-29 14:37:24,757 - INFO - ✅ Sent to: denicho.morawiec@gmail.com
+2025-12-29 14:37:27,256 - INFO - ✅ Sent to: iwonamichalczyk@op.pl
+2025-12-29 14:37:30,387 - INFO - ✅ Sent to: Bartek.rybicki79789@interia.pl
+2025-12-29 14:37:32,216 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. ffacd0b85a97d-43277b82a58sm28769615f8f.6 - gsmtp')}
+2025-12-29 14:37:35,193 - INFO - ✅ Sent to: dawid.cecek@icloud.com
+2025-12-29 14:37:37,536 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47be3a49315sm249056855e9.2 - gsmtp')}
+2025-12-29 14:37:39,789 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47be26a81b6sm610123885e9.0 - gsmtp')}
+2025-12-29 14:37:42,042 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. ffacd0b85a97d-4324ea22674sm63929245f8f.10 - gsmtp')}
+2025-12-29 14:37:44,909 - INFO - ✅ Sent to: jarekkoldras8@gmail.com
+2025-12-29 14:37:47,645 - INFO - ✅ Sent to: fwyczarski@gmail.com
+2025-12-29 14:37:50,541 - INFO - ✅ Sent to: marekbaran197@gmail.com
+2025-12-29 14:37:53,517 - INFO - ✅ Sent to: miloszgwizdon3@gmail.com
+2025-12-29 14:37:53,738 - INFO - ⏭️ Skipped 123HannahOunengmvynpef.qm@inscrlab.com - already sent.
+2025-12-29 14:37:56,380 - INFO - ✅ Sent to: neo20210529@gmail.com
+2025-12-29 14:37:58,433 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. ffacd0b85a97d-4324ea1b36fsm62053326f8f.5 - gsmtp')}
+2025-12-29 14:38:01,212 - INFO - ✅ Sent to: danki39991@gmail.com
+2025-12-29 14:38:03,054 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. ffacd0b85a97d-4324ea1b36fsm62053653f8f.5 - gsmtp')}
+2025-12-29 14:38:04,894 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. ffacd0b85a97d-4324ea226d1sm64016103f8f.13 - gsmtp')}
+2025-12-29 14:38:07,297 - INFO - ✅ Sent to: adrian.kawecki1@wp.pl
+2025-12-29 14:38:09,198 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. ffacd0b85a97d-4324ea830f3sm61503801f8f.22 - gsmtp')}
+2025-12-29 14:38:10,983 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47be3b3a80dsm245749705e9.7 - gsmtp')}
+2025-12-29 14:38:13,397 - INFO - ✅ Sent to: tomaszm639@gmail.com
+2025-12-29 14:38:13,610 - INFO - ⏭️ Skipped orszulikdamian123@gmail.com - already sent.
+2025-12-29 14:38:13,612 - INFO - ⏭️ Skipped jacekjesion85@interia.pl - already sent.
+2025-12-29 14:38:15,965 - INFO - ✅ Sent to: szympixx@gmail.com
+2025-12-29 14:38:18,459 - INFO - ✅ Sent to: ivangavadzun@gmail.com
+2025-12-29 14:38:18,675 - INFO - ⏭️ Skipped jakub.nowak0219@gmail.com - already sent.
+2025-12-29 14:38:21,077 - INFO - ✅ Sent to: namektoja1916@gmail.com
+2025-12-29 14:38:23,534 - INFO - ✅ Sent to: domel221@vp.pl
+2025-12-29 14:38:26,138 - INFO - ✅ Sent to: adrianmosiej7777@gmail.com
+2025-12-29 14:38:28,699 - INFO - ✅ Sent to: kamilblacha4@gmail.com
+2025-12-29 14:38:28,912 - INFO - ⏭️ Skipped miloszgwizdon3@gmail.com - already sent.
+2025-12-29 14:38:31,418 - INFO - ✅ Sent to: daniel.slabosz@onet.eu
+2025-12-29 14:38:33,258 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47be3aa7cd0sm250926125e9.8 - gsmtp')}
+2025-12-29 14:38:35,818 - INFO - ✅ Sent to: dominikbudzikowski@gmail.com
+2025-12-29 14:38:37,664 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. ffacd0b85a97d-4324ea226d1sm64019279f8f.13 - gsmtp')}
+2025-12-29 14:38:40,221 - INFO - ✅ Sent to: piotrek24kurzyk@gmail.com
+2025-12-29 14:38:42,065 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. ffacd0b85a97d-4324ea1b36fsm62056181f8f.5 - gsmtp')}
+2025-12-29 14:38:43,854 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47be279c5f8sm566931045e9.9 - gsmtp')}
+2025-12-29 14:38:46,365 - INFO - ✅ Sent to: Galatustm@gmail.com
+2025-12-29 14:38:48,359 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47be3aa9971sm231862775e9.13 - gsmtp')}
+2025-12-29 14:38:50,817 - INFO - ✅ Sent to: kubanek.igor2003@o2.pl
+2025-12-29 14:38:52,660 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47d19346dfcsm646426865e9.1 - gsmtp')}
+2025-12-29 14:38:55,172 - INFO - ✅ Sent to: malutka21151@gmail.com
+2025-12-29 14:38:57,678 - INFO - ✅ Sent to: Rakpatryk733@gmail.com
+2025-12-29 14:38:59,521 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. ffacd0b85a97d-4324ea82fa1sm60061868f8f.23 - gsmtp')}
+2025-12-29 14:39:01,365 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. ffacd0b85a97d-4324ea1aee5sm63563691f8f.4 - gsmtp')}
+2025-12-29 14:39:03,822 - INFO - ✅ Sent to: piotr.stankiewicz19@gmail.com
+2025-12-29 14:39:05,668 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47be27b28a7sm592506305e9.12 - gsmtp')}
+2025-12-29 14:39:08,185 - INFO - ✅ Sent to: mail3873830@protonmail.com
+2025-12-29 14:39:10,020 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47be3aea77bsm230557615e9.17 - gsmtp')}
+2025-12-29 14:39:12,481 - INFO - ✅ Sent to: przemyslawdach84@gmail.com
+2025-12-29 14:39:15,086 - INFO - ✅ Sent to: pawel97155@gmail.com
+2025-12-29 14:39:17,544 - INFO - ✅ Sent to: gabrieladyba0106@wp.pl
+2025-12-29 14:39:19,444 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. ffacd0b85a97d-4325d10cc48sm52563899f8f.16 - gsmtp')}
+2025-12-29 14:39:21,899 - INFO - ✅ Sent to: krzysztofheyduk536@gmail.com
+2025-12-29 14:39:24,360 - INFO - ✅ Sent to: konradpalkowski0@gmail.com
+2025-12-29 14:39:26,862 - INFO - ✅ Sent to: albert.moson@interia.pl
+2025-12-29 14:39:27,076 - INFO - ⏭️ Skipped piotrek24kurzyk@gmail.com - already sent.
+2025-12-29 14:39:27,079 - INFO - ⏭️ Skipped 123HannahOunengmvynpef.qm@inscrlab.com - already sent.
+2025-12-29 14:39:27,081 - INFO - ⏭️ Skipped sewerynwiktor2@gmail.com - already sent.
+2025-12-29 14:39:29,422 - INFO - ✅ Sent to: ttomek.tz23@gmail.com
+2025-12-29 14:39:32,036 - INFO - ✅ Sent to: kubamajewski201@icloud.com
+2025-12-29 14:39:34,542 - INFO - ✅ Sent to: wiktorgrzymkowski11@wp.pl
+2025-12-29 14:39:37,105 - INFO - ✅ Sent to: mateuszstacewicz145@gmail.com
+2025-12-29 14:39:37,319 - INFO - ⏭️ Skipped denicho.morawiec@gmail.com - already sent.
+2025-12-29 14:39:38,897 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. ffacd0b85a97d-432613f7e6esm51871050f8f.21 - gsmtp')}
+2025-12-29 14:39:41,359 - INFO - ✅ Sent to: marczukmateusz8@gmail.com
+2025-12-29 14:39:41,576 - INFO - ⏭️ Skipped piotrsarkowicz3@gmail.com - already sent.
+2025-12-29 14:39:43,918 - INFO - ✅ Sent to: patrykuciniak985@gmail.com
+2025-12-29 14:39:45,703 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47be2723d19sm636681015e9.2 - gsmtp')}
+2025-12-29 14:39:45,906 - INFO - ⏭️ Skipped marekbaran197@gmail.com - already sent.
+2025-12-29 14:39:48,224 - INFO - ✅ Sent to: nowamaciej07@gmail.com
+2025-12-29 14:39:48,436 - INFO - ⏭️ Skipped karolciaikrzysiek@gmail.com - already sent.
+2025-12-29 14:39:51,800 - INFO - ✅ Sent to: pienkowskimichal909@gmail.com
+2025-12-29 14:39:53,896 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47be26a81b6sm610217035e9.0 - gsmtp')}
+2025-12-29 14:39:55,690 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47d5ce193ecsm168595e9.10 - gsmtp')}
+2025-12-29 14:39:58,148 - INFO - ✅ Sent to: tomaszzwolski14@gmail.com
+2025-12-29 14:40:00,653 - INFO - ✅ Sent to: bartoszdrzazga55@gmail.com
+2025-12-29 14:40:08,231 - INFO - ✅ Sent to: szulcernest667@gmail.com
+2025-12-29 14:40:08,452 - INFO - ⏭️ Skipped iwonamichalczyk@op.pl - already sent.
+2025-12-29 14:40:11,258 - INFO - ✅ Sent to: aleksa21-1993@wp.pl
+2025-12-29 14:40:13,712 - INFO - ✅ Sent to: filipoborzo2006@gmail.com
+2025-12-29 14:40:16,273 - INFO - ✅ Sent to: oliwer06doro@gmail.com
+2025-12-29 14:40:16,486 - INFO - ⏭️ Skipped dawid.cecek@icloud.com - already sent.
+2025-12-29 14:40:18,779 - INFO - ✅ Sent to: sebcio062@gmail.com
+2025-12-29 14:40:21,293 - INFO - ✅ Sent to: marcoxass@gmail.com
+2025-12-29 14:40:21,509 - INFO - ⏭️ Skipped zkamil709@gmail.com - already sent.
+2025-12-29 14:40:23,796 - INFO - ✅ Sent to: jeepmarcel@wp.pl
+2025-12-29 14:40:26,308 - INFO - ✅ Sent to: jakubpieczkowski4@gmail.com
+2025-12-29 14:40:29,178 - INFO - ✅ Sent to: marcinzieja9@gmail.com
+2025-12-29 14:40:32,247 - INFO - ✅ Sent to: pyr.mat2000@gmail.com
+2025-12-29 14:40:32,461 - INFO - ⏭️ Skipped 123HannahOunengmvynpef.qm@inscrlab.com - already sent.
+2025-12-29 14:40:35,319 - INFO - ✅ Sent to: Styliczny@interia.pl
+2025-12-29 14:40:40,217 - INFO - ✅ Sent to: viov.net@gmail.com
+2025-12-29 14:40:40,435 - INFO - ⏭️ Skipped 123HannahOunengmvynpef.qm@inscrlab.com - already sent.
+2025-12-29 14:40:44,119 - INFO - ✅ Sent to: mar.hna@wp.pl
+2025-12-29 14:40:48,205 - INFO - ✅ Sent to: sebek.kopacz06@o2.pl
+2025-12-29 14:40:48,419 - INFO - ⏭️ Skipped 123HannahOunengmvynpef.qm@inscrlab.com - already sent.
+2025-12-29 14:40:51,993 - INFO - ✅ Sent to: drkamil2002@wp.pl
+2025-12-29 14:40:55,680 - INFO - ✅ Sent to: kamilakonieczna999@gmail.com
+2025-12-29 14:40:58,854 - INFO - ✅ Sent to: adrian.walczak0408@gmail.com
+2025-12-29 14:41:01,517 - INFO - ✅ Sent to: kasprzykk90@gmail.com
+2025-12-29 14:41:03,565 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47d193d4f09sm550897515e9.12 - gsmtp')}
+2025-12-29 14:41:05,612 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. ffacd0b85a97d-4324ea8311fsm62980024f8f.28 - gsmtp')}
+2025-12-29 14:41:08,379 - INFO - ✅ Sent to: kacperrochowiak2003@gmail.com
+2025-12-29 14:41:11,450 - INFO - ✅ Sent to: kamedevgeniy@gmail.com
+2025-12-29 14:41:14,214 - INFO - ✅ Sent to: darysiu123@wp.pl
+2025-12-29 14:41:17,098 - INFO - ✅ Sent to: adamek230211@gmail.com
+2025-12-29 14:41:17,313 - INFO - ⏭️ Skipped tomaszm639@gmail.com - already sent.
+2025-12-29 14:41:20,170 - INFO - ✅ Sent to: mariusz_bee@wp.pl
+2025-12-29 14:41:20,388 - INFO - ⏭️ Skipped Bartek.rybicki79789@interia.pl - already sent.
+2025-12-29 14:41:23,247 - INFO - ✅ Sent to: mateusz10206@interia.pl
+2025-12-29 14:41:26,297 - INFO - ✅ Sent to: kacpersozoniuk03@gmail.com
+2025-12-29 14:41:29,164 - INFO - ✅ Sent to: Krzysztof4421309@interia.pl
+2025-12-29 14:41:33,055 - INFO - ✅ Sent to: chrzanek2006@gmail.com
+2025-12-29 14:41:35,821 - INFO - ✅ Sent to: rottef9@gmail.com
+2025-12-29 14:41:38,691 - INFO - ✅ Sent to: olafholderny@gmail.com
+2025-12-29 14:41:42,396 - INFO - ✅ Sent to: ziomale004@interia.pl
+2025-12-29 14:41:45,857 - INFO - ✅ Sent to: arturgruszczynski@spoko.pl
+2025-12-29 14:41:49,030 - INFO - ✅ Sent to: krykwi1981@gmail.com
+2025-12-29 14:41:52,818 - INFO - ✅ Sent to: newhome.1312@gmail.com
+2025-12-29 14:41:56,301 - INFO - ✅ Sent to: mail3445457@protonmail.com
+2025-12-29 14:41:59,475 - INFO - ✅ Sent to: lisowskapaula4@gmail.com
+2025-12-29 14:42:02,649 - INFO - ✅ Sent to: rado.r.siw@gmail.com
+2025-12-29 14:42:05,414 - INFO - ✅ Sent to: brozekwojciechowski13@gmail.com
+2025-12-29 14:42:08,386 - INFO - ✅ Sent to: kowalskid456@gmail.com
+2025-12-29 14:42:11,558 - INFO - ✅ Sent to: murbanski513@gmail.com
+2025-12-29 14:42:11,771 - INFO - ⏭️ Skipped 123HannahOunengmvynpef.qm@inscrlab.com - already sent.
+2025-12-29 14:42:14,733 - INFO - ✅ Sent to: tomek.szkup-81@wp.pl
+2025-12-29 14:42:17,497 - INFO - ✅ Sent to: michal12matusiak@gmail.com
+2025-12-29 14:42:20,364 - INFO - ✅ Sent to: mail5044498@protonmail.com
+2025-12-29 14:42:22,617 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 4fb4d7f45d1cf-64b90f53c70sm32102886a12.6 - gsmtp')}
+2025-12-29 14:42:24,767 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. a640c23a62f3a-b8037ab7f87sm1858841866b.17 - gsmtp')}
+2025-12-29 14:42:27,634 - INFO - ✅ Sent to: escobrato152@gmail.com
+2025-12-29 14:42:30,502 - INFO - ✅ Sent to: fabian.lason12@icloud.com
+2025-12-29 14:42:32,756 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 4fb4d7f45d1cf-64b91494ce2sm31728516a12.17 - gsmtp')}
+2025-12-29 14:42:35,622 - INFO - ✅ Sent to: elzbietamizerak7@gmail.com
+2025-12-29 14:42:38,492 - INFO - ✅ Sent to: rafal.murawski.223@gmail.com
+2025-12-29 14:42:41,356 - INFO - ✅ Sent to: komorowskibarman@gmail.com
+2025-12-29 14:42:44,223 - INFO - ✅ Sent to: borys.trzepacz@o2.pl
+2025-12-29 14:42:47,091 - INFO - ✅ Sent to: tomczakh@wp.pl
+2025-12-29 14:42:50,266 - INFO - ✅ Sent to: marcindolata70@gmail.com
+2025-12-29 14:42:52,518 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47be3a20af0sm229440235e9.4 - gsmtp')}
+2025-12-29 14:42:54,668 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47be2724fe8sm698727135e9.1 - gsmtp')}
+2025-12-29 14:42:57,540 - INFO - ✅ Sent to: wikikarolinak89@gmail.com
+2025-12-29 14:42:57,757 - INFO - ⏭️ Skipped m.gajdzinski07@onet.pl - already sent.
+2025-12-29 14:43:00,300 - INFO - ✅ Sent to: kacperbryszkiewski2@wp.pl
+2025-12-29 14:43:03,066 - INFO - ✅ Sent to: m.lesiecki@wp.pl
+2025-12-29 14:43:05,113 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47d19352306sm530024105e9.5 - gsmtp')}
+2025-12-29 14:43:06,973 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47be395d9cfsm243716735e9.0 - gsmtp')}
+2025-12-29 14:43:08,761 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47be3a9687dsm249696195e9.3 - gsmtp')}
+2025-12-29 14:43:11,219 - INFO - ✅ Sent to: krzysztofkochmanski93@gmail.com
+2025-12-29 14:43:13,631 - INFO - ✅ Sent to: dj.kuberson10@gmail.com
+2025-12-29 14:43:16,086 - INFO - ✅ Sent to: kacpiii73@gmail.com
+2025-12-29 14:43:18,797 - INFO - ✅ Sent to: lobockiszymon@gmail.com
+2025-12-29 14:43:21,513 - INFO - ✅ Sent to: matix1566@gmail.com
+2025-12-29 14:43:21,725 - INFO - ⏭️ Skipped patrykapk123@gmail.com - already sent.
+2025-12-29 14:43:24,073 - INFO - ✅ Sent to: Szymonsudu2000@gmail.com
+2025-12-29 14:43:26,534 - INFO - ✅ Sent to: bobek860@wp.pl
+2025-12-29 14:43:29,139 - INFO - ✅ Sent to: krolkarol05@gmail.com
+2025-12-29 14:43:31,085 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. ffacd0b85a97d-4324ea1af2bsm62514186f8f.1 - gsmtp')}
+2025-12-29 14:43:33,543 - INFO - ✅ Sent to: piotr180704@interia.pl
+2025-12-29 14:43:35,386 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47d1936d220sm587243695e9.8 - gsmtp')}
+2025-12-29 14:43:37,898 - INFO - ✅ Sent to: szymon.gorczynski350@gmail.com
+2025-12-29 14:43:40,462 - INFO - ✅ Sent to: ds1756463@gmail.com
+2025-12-29 14:43:42,967 - INFO - ✅ Sent to: oskarwojciechowski2004@gmail.com
+2025-12-29 14:43:45,580 - INFO - ✅ Sent to: piperzycasebastian@gmail.com
+2025-12-29 14:43:48,288 - INFO - ✅ Sent to: a.kalaska78@gmail.com
+2025-12-29 14:43:50,904 - INFO - ✅ Sent to: karolmasloelwski@gmail.com
+2025-12-29 14:43:53,459 - INFO - ✅ Sent to: stepien.dominik95@gmail.com
+2025-12-29 14:43:56,112 - INFO - ✅ Sent to: judyta.kowalewska@gmail.com
+2025-12-29 14:43:58,173 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. ffacd0b85a97d-4324eab2a94sm63062450f8f.43 - gsmtp')}
+2025-12-29 14:44:00,938 - INFO - ✅ Sent to: nikolas121@op.pl
+2025-12-29 14:44:03,910 - INFO - ✅ Sent to: bzdon68@gmail.com
+2025-12-29 14:44:06,554 - INFO - ✅ Sent to: annaolejnik@poczta.onet.eu
+2025-12-29 14:44:06,770 - INFO - ⏭️ Skipped patrykuciniak985@gmail.com - already sent.
+2025-12-29 14:44:06,773 - INFO - ⏭️ Skipped 123HannahOunengmvynpef.qm@inscrlab.com - already sent.
+2025-12-29 14:44:09,522 - INFO - ✅ Sent to: lukasz_musiala@o2.pl
+2025-12-29 14:44:12,286 - INFO - ✅ Sent to: orkowskadominika@gmail.com
+2025-12-29 14:44:12,496 - INFO - ⏭️ Skipped lukaszkramorz112@gmail.com - already sent.
+2025-12-29 14:44:15,462 - INFO - ✅ Sent to: kacper.skrzypczak18@onet.pl
+2025-12-29 14:44:15,670 - INFO - ⏭️ Skipped 123HannahOunengmvynpef.qm@inscrlab.com - already sent.
+2025-12-29 14:44:18,226 - INFO - ✅ Sent to: bartoszrom25@gmail.com
+2025-12-29 14:44:20,991 - INFO - ✅ Sent to: dawid.grykalowski@onet.pl
+2025-12-29 14:44:23,756 - INFO - ✅ Sent to: paulakaminska194@gmail.com
+2025-12-29 14:44:26,418 - INFO - ✅ Sent to: patryk.pie@wp.pl
+2025-12-29 14:44:29,489 - INFO - ✅ Sent to: jacekpluta3@gmail.com
+2025-12-29 14:44:32,359 - INFO - ✅ Sent to: robinek040@gmail.com
+2025-12-29 14:44:35,327 - INFO - ✅ Sent to: piotrwojciak597@gmail.com
+2025-12-29 14:44:38,297 - INFO - ✅ Sent to: patrykslojkow123@gmail.com
+2025-12-29 14:44:38,514 - INFO - ⏭️ Skipped janmiet28@gmail.com - already sent.
+2025-12-29 14:44:41,266 - INFO - ✅ Sent to: osioramanda@gmail.com
+2025-12-29 14:44:43,416 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47be26a81b6sm610415475e9.0 - gsmtp')}
+2025-12-29 14:44:46,080 - INFO - ✅ Sent to: krystianmezydlo1997@wp.pl
+2025-12-29 14:44:48,946 - INFO - ✅ Sent to: nikodemmikolajczyk94@gmail.com
+2025-12-29 14:44:49,163 - INFO - ⏭️ Skipped aspen@pseudonim.pl - already sent.
+2025-12-29 14:44:51,712 - INFO - ✅ Sent to: aleksandrawoldan@gmail.com
+2025-12-29 14:44:51,925 - INFO - ⏭️ Skipped adrian.kawecki1@wp.pl - already sent.
+2025-12-29 14:44:54,578 - INFO - ✅ Sent to: damien19911991@gmail.com
+2025-12-29 14:44:57,343 - INFO - ✅ Sent to: wujektomaszek1@gmail.com
+2025-12-29 14:45:00,210 - INFO - ✅ Sent to: damian_stelmach07@o2.pl
+2025-12-29 14:45:02,975 - INFO - ✅ Sent to: pawlakwiktoria1@wp.pl
+2025-12-29 14:45:05,227 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. ffacd0b85a97d-4324eaa64cesm62790548f8f.35 - gsmtp')}
+2025-12-29 14:45:08,095 - INFO - ✅ Sent to: jakubwudarczyk96@gmail.com
+2025-12-29 14:45:11,084 - INFO - ✅ Sent to: grzybekbartek989@gmail.com
+2025-12-29 14:45:11,295 - INFO - ⏭️ Skipped 123HannahOunengmvynpef.qm@inscrlab.com - already sent.
+2025-12-29 14:45:13,800 - INFO - ✅ Sent to: mateuszzalewski601@gmail.com
+2025-12-29 14:45:16,701 - INFO - ✅ Sent to: darioliverpool741125@gmail.com
+2025-12-29 14:45:16,917 - INFO - ⏭️ Skipped neo20210529@gmail.com - already sent.
+2025-12-29 14:45:16,918 - INFO - ⏭️ Skipped 123HannahOunengmvynpef.qm@inscrlab.com - already sent.
+2025-12-29 14:45:19,409 - INFO - ✅ Sent to: wickanikola@gmail.com
+2025-12-29 14:45:22,075 - INFO - ✅ Sent to: damian.feliksiak@o2.pl
+2025-12-29 14:45:24,188 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47d19346e48sm526402055e9.2 - gsmtp')}
+2025-12-29 14:45:26,898 - INFO - ✅ Sent to: jakubbaumann007@gmail.com
+2025-12-29 14:45:28,796 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47be3a2b419sm243735625e9.1 - gsmtp')}
+2025-12-29 14:45:31,358 - INFO - ✅ Sent to: krzysmichalski76@gmail.com
+2025-12-29 14:45:34,021 - INFO - ✅ Sent to: dawidos486@wp.pl
+2025-12-29 14:45:34,233 - INFO - ⏭️ Skipped jarekkoldras8@gmail.com - already sent.
+2025-12-29 14:45:36,627 - INFO - ✅ Sent to: darekkupczyk82@gmail.com
+2025-12-29 14:45:36,839 - INFO - ⏭️ Skipped rado.r.siw@gmail.com - already sent.
+2025-12-29 14:45:39,187 - INFO - ✅ Sent to: Justynanarloch2@gmail.com
+2025-12-29 14:45:41,031 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. ffacd0b85a97d-4324eaa2beasm61269031f8f.33 - gsmtp')}
+2025-12-29 14:45:43,590 - INFO - ✅ Sent to: mateusz.mroczek@vip.onet.pl
+2025-12-29 14:45:46,103 - INFO - ✅ Sent to: natantopor11@gmail.com
+2025-12-29 14:45:47,945 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. ffacd0b85a97d-4324ea1b36fsm62085474f8f.5 - gsmtp')}
+2025-12-29 14:45:49,734 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47d5ce193ecsm426655e9.10 - gsmtp')}
+2025-12-29 14:45:49,938 - INFO - ⏭️ Skipped 123HannahOunengmvynpef.qm@inscrlab.com - already sent.
+2025-12-29 14:45:51,631 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 5b1f17b1804b1-47d193cba81sm531123685e9.10 - gsmtp')}
+2025-12-29 14:45:54,293 - INFO - ✅ Sent to: dawidkorsak6@gmail.com
+2025-12-29 14:45:56,956 - INFO - ✅ Sent to: damixmika@o2.pl
+2025-12-29 14:45:59,721 - INFO - ✅ Sent to: msrsevi@gmail.com
+2025-12-29 14:46:02,386 - INFO - ✅ Sent to: mail5236987@protonmail.com
+2025-12-29 14:46:05,148 - INFO - ✅ Sent to: trackidawid070@gmail.com
+2025-12-29 14:46:08,936 - INFO - ✅ Sent to: wojtekceglarek@interia.pl
+2025-12-29 14:46:09,152 - INFO - ⏭️ Skipped danki39991@gmail.com - already sent.
+2025-12-29 14:46:11,599 - INFO - ✅ Sent to: qvba111@gmail.com
+2025-12-29 14:46:14,208 - INFO - ✅ Sent to: patkahamerla1998@wp.pl
+2025-12-29 14:46:16,050 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. a640c23a62f3a-b8037a60500sm3311217966b.13 - gsmtp')}
+2025-12-29 14:46:19,011 - INFO - ✅ Sent to: marekzajacmail@gmail.com
+2025-12-29 14:46:19,224 - INFO - ⏭️ Skipped fwyczarski@gmail.com - already sent.
+2025-12-29 14:46:21,842 - INFO - ✅ Sent to: lisdominik.2007@gmail.com
+2025-12-29 14:46:24,866 - INFO - ✅ Sent to: zdunskiartur95@gmail.com
+2025-12-29 14:46:27,762 - INFO - ✅ Sent to: suchym658@gmail.com
+2025-12-29 14:46:30,850 - INFO - ✅ Sent to: celt864@gmail.com
+2025-12-29 14:46:33,103 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 4fb4d7f45d1cf-64b90f53b21sm31809118a12.5 - gsmtp')}
+2025-12-29 14:46:36,062 - INFO - ✅ Sent to: paulina-strzelec@o2.pl
+2025-12-29 14:46:40,050 - INFO - ✅ Sent to: anna.socha9752@gmail.com
+2025-12-29 14:46:40,265 - INFO - ⏭️ Skipped czesiekch@vp.pl - already sent.
+2025-12-29 14:46:42,114 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 4fb4d7f45d1cf-64b90f53c51sm32388657a12.3 - gsmtp')}
+2025-12-29 14:46:44,776 - INFO - ✅ Sent to: robertboron1@gmail.com
+2025-12-29 14:46:44,991 - INFO - ⏭️ Skipped zkamil709@gmail.com - already sent.
+2025-12-29 14:46:47,576 - INFO - ✅ Sent to: kredka_kk@wp.pl
+2025-12-29 14:46:49,624 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. a640c23a62f3a-b8037ab86cesm3342903766b.19 - gsmtp')}
+2025-12-29 14:46:49,827 - INFO - ⏭️ Skipped majewskikacper939@gmail.com - already sent.
+2025-12-29 14:46:53,480 - INFO - ✅ Sent to: d6534531@gmail.com
+2025-12-29 14:46:55,631 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 4fb4d7f45d1cf-64b9159a6d0sm31848222a12.28 - gsmtp')}
+2025-12-29 14:46:58,293 - INFO - ✅ Sent to: k.trzaskowski02@gmail.com
+2025-12-29 14:47:00,275 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. a640c23a62f3a-b8037f51a74sm3425732766b.63 - gsmtp')}
+2025-12-29 14:47:03,141 - INFO - ✅ Sent to: bartoszgronowicz@gmail.com
+2025-12-29 14:47:03,358 - INFO - ⏭️ Skipped Bartek.rybicki79789@interia.pl - already sent.
+2025-12-29 14:47:05,976 - INFO - ✅ Sent to: robert.187@wp.pl
+2025-12-29 14:47:10,208 - INFO - ✅ Sent to: denisrubanski12072021@gmail.com
+2025-12-29 14:47:12,833 - INFO - ✅ Sent to: kacperb7892@gmail.com
+2025-12-29 14:47:15,598 - INFO - ✅ Sent to: kamiilomichalak2001@gmail.com
+2025-12-29 14:47:17,650 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. a640c23a62f3a-b8045a086fasm3142398366b.70 - gsmtp')}
+2025-12-29 14:47:19,596 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. a640c23a62f3a-b8037de0de1sm3346590466b.40 - gsmtp')}
+2025-12-29 14:47:22,152 - INFO - ✅ Sent to: dymoala@gmail.com
+2025-12-29 14:47:22,364 - INFO - ⏭️ Skipped 123HannahOunengmvynpef.qm@inscrlab.com - already sent.
+2025-12-29 14:47:24,818 - INFO - ✅ Sent to: blazejrudnik389@gmail.com
+2025-12-29 14:47:27,682 - INFO - ✅ Sent to: filipowiczlukasz878@gmail.com
+2025-12-29 14:47:30,290 - INFO - ✅ Sent to: kwiecien963@gmail.com
+2025-12-29 14:47:30,502 - INFO - ⏭️ Skipped lukaszkramorz112@gmail.com - already sent.
+2025-12-29 14:47:32,235 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. a640c23a62f3a-b8037f51a74sm3425861066b.63 - gsmtp')}
+2025-12-29 14:47:34,694 - INFO - ✅ Sent to: kosiedowskikamil@gmail.com
+2025-12-29 14:47:37,307 - INFO - ✅ Sent to: hubertmichal@interia.pl
+2025-12-29 14:47:39,255 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. a640c23a62f3a-b8045a086fasm3142477466b.70 - gsmtp')}
+2025-12-29 14:47:39,458 - INFO - ⏭️ Skipped 123HannahOunengmvynpef.qm@inscrlab.com - already sent.
+2025-12-29 14:47:41,096 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. a640c23a62f3a-b8037a5bdb9sm3406743366b.7 - gsmtp')}
+2025-12-29 14:47:43,705 - INFO - ✅ Sent to: damian.kazun863@onet.pl
+2025-12-29 14:47:46,200 - INFO - ✅ Sent to: andrzej.derkacz8@wp.pl
+2025-12-29 14:47:48,517 - ERROR - ❌ Failed to send to None: {'None': (553, b'5.1.3 The recipient address <None> is not a valid RFC 5321 address. For more\n5.1.3 information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. ffacd0b85a97d-4324ea22674sm63986647f8f.10 - gsmtp')}
+2025-12-29 14:47:51,116 - INFO - ✅ Sent to: maria.pawlak12345@gmail.com
+2025-12-29 14:47:51,327 - INFO - 🏁 Campaign finished.
+2025-12-29 14:50:42,026 - INFO - ⏭️ Skipped (already sent): aspen@pseudonim.pl
+2025-12-29 14:50:42,027 - INFO - ⏭️ Skipped (already sent): majewskikacper939@gmail.com
+2025-12-29 14:50:42,029 - INFO - ⏭️ Skipped (already sent): jakub.nowak0219@gmail.com
+2025-12-29 14:50:42,030 - INFO - ⏭️ Skipped (already sent): patrykapk123@gmail.com
+2025-12-29 14:50:42,032 - INFO - ⏭️ Skipped (already sent): orszulikdamian123@gmail.com
+2025-12-29 14:50:42,035 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:50:42,035 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,036 - INFO - ⏭️ Skipped (already sent): jacekjesion85@interia.pl
+2025-12-29 14:50:42,037 - INFO - ⏭️ Skipped (already sent): zkamil709@gmail.com
+2025-12-29 14:50:42,038 - INFO - ⏭️ Skipped (already sent): sewerynwiktor2@gmail.com
+2025-12-29 14:50:42,038 - INFO - ⏭️ Skipped (already sent): lukaszkramorz112@gmail.com
+2025-12-29 14:50:42,043 - INFO - ⏭️ Skipped (already sent): piotrsarkowicz3@gmail.com
+2025-12-29 14:50:42,044 - INFO - ⏭️ Skipped (already sent): m.gajdzinski07@onet.pl
+2025-12-29 14:50:42,045 - INFO - ⏭️ Skipped (already sent): karolciaikrzysiek@gmail.com
+2025-12-29 14:50:42,045 - INFO - ⏭️ Skipped (already sent): czesiekch@vp.pl
+2025-12-29 14:50:42,045 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,046 - INFO - ⏭️ Skipped (already sent): janmiet28@gmail.com
+2025-12-29 14:50:42,046 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,046 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,046 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,047 - INFO - ⏭️ Skipped (already sent): denicho.morawiec@gmail.com
+2025-12-29 14:50:42,047 - INFO - ⏭️ Skipped (already sent): iwonamichalczyk@op.pl
+2025-12-29 14:50:42,048 - INFO - ⏭️ Skipped (already sent): Bartek.rybicki79789@interia.pl
+2025-12-29 14:50:42,048 - INFO - ⏭️ Skipped (already sent): dawid.cecek@icloud.com
+2025-12-29 14:50:42,049 - INFO - ⏭️ Skipped (already sent): jarekkoldras8@gmail.com
+2025-12-29 14:50:42,049 - INFO - ⏭️ Skipped (already sent): fwyczarski@gmail.com
+2025-12-29 14:50:42,049 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,050 - INFO - ⏭️ Skipped (already sent): marekbaran197@gmail.com
+2025-12-29 14:50:42,050 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,050 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,054 - INFO - ⏭️ Skipped (already sent): miloszgwizdon3@gmail.com
+2025-12-29 14:50:42,054 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,054 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,054 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:50:42,055 - INFO - ⏭️ Skipped (already sent): neo20210529@gmail.com
+2025-12-29 14:50:42,056 - INFO - ⏭️ Skipped (already sent): danki39991@gmail.com
+2025-12-29 14:50:42,056 - INFO - ⏭️ Skipped (already sent): adrian.kawecki1@wp.pl
+2025-12-29 14:50:42,057 - INFO - ⏭️ Skipped (already sent): tomaszm639@gmail.com
+2025-12-29 14:50:42,057 - INFO - ⏭️ Skipped (already sent): orszulikdamian123@gmail.com
+2025-12-29 14:50:42,057 - INFO - ⏭️ Skipped (already sent): jacekjesion85@interia.pl
+2025-12-29 14:50:42,058 - INFO - ⏭️ Skipped (already sent): szympixx@gmail.com
+2025-12-29 14:50:42,058 - INFO - ⏭️ Skipped (already sent): ivangavadzun@gmail.com
+2025-12-29 14:50:42,062 - INFO - ⏭️ Skipped (already sent): jakub.nowak0219@gmail.com
+2025-12-29 14:50:42,062 - INFO - ⏭️ Skipped (already sent): namektoja1916@gmail.com
+2025-12-29 14:50:42,063 - INFO - ⏭️ Skipped (already sent): domel221@vp.pl
+2025-12-29 14:50:42,063 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,064 - INFO - ⏭️ Skipped (already sent): adrianmosiej7777@gmail.com
+2025-12-29 14:50:42,064 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,065 - INFO - ⏭️ Skipped (already sent): kamilblacha4@gmail.com
+2025-12-29 14:50:42,065 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,065 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,065 - INFO - ⏭️ Skipped (already sent): miloszgwizdon3@gmail.com
+2025-12-29 14:50:42,066 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,066 - INFO - ⏭️ Skipped (already sent): daniel.slabosz@onet.eu
+2025-12-29 14:50:42,066 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,066 - INFO - ⏭️ Skipped (already sent): dominikbudzikowski@gmail.com
+2025-12-29 14:50:42,067 - INFO - ⏭️ Skipped (already sent): piotrek24kurzyk@gmail.com
+2025-12-29 14:50:42,067 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,067 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,067 - INFO - ⏭️ Skipped (already sent): Galatustm@gmail.com
+2025-12-29 14:50:42,067 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,068 - INFO - ⏭️ Skipped (already sent): kubanek.igor2003@o2.pl
+2025-12-29 14:50:42,068 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,068 - INFO - ⏭️ Skipped (already sent): malutka21151@gmail.com
+2025-12-29 14:50:42,072 - INFO - ⏭️ Skipped (already sent): Rakpatryk733@gmail.com
+2025-12-29 14:50:42,072 - INFO - ⏭️ Skipped (already sent): piotr.stankiewicz19@gmail.com
+2025-12-29 14:50:42,072 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,073 - INFO - ⏭️ Skipped (already sent): mail3873830@protonmail.com
+2025-12-29 14:50:42,073 - INFO - ⏭️ Skipped (already sent): przemyslawdach84@gmail.com
+2025-12-29 14:50:42,074 - INFO - ⏭️ Skipped (already sent): pawel97155@gmail.com
+2025-12-29 14:50:42,074 - INFO - ⏭️ Skipped (already sent): gabrieladyba0106@wp.pl
+2025-12-29 14:50:42,075 - INFO - ⏭️ Skipped (already sent): krzysztofheyduk536@gmail.com
+2025-12-29 14:50:42,075 - INFO - ⏭️ Skipped (already sent): konradpalkowski0@gmail.com
+2025-12-29 14:50:42,076 - INFO - ⏭️ Skipped (already sent): albert.moson@interia.pl
+2025-12-29 14:50:42,076 - INFO - ⏭️ Skipped (already sent): piotrek24kurzyk@gmail.com
+2025-12-29 14:50:42,076 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:50:42,077 - INFO - ⏭️ Skipped (already sent): sewerynwiktor2@gmail.com
+2025-12-29 14:50:42,077 - INFO - ⏭️ Skipped (already sent): ttomek.tz23@gmail.com
+2025-12-29 14:50:42,077 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,078 - INFO - ⏭️ Skipped (already sent): kubamajewski201@icloud.com
+2025-12-29 14:50:42,078 - INFO - ⏭️ Skipped (already sent): wiktorgrzymkowski11@wp.pl
+2025-12-29 14:50:42,079 - INFO - ⏭️ Skipped (already sent): mateuszstacewicz145@gmail.com
+2025-12-29 14:50:42,079 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,079 - INFO - ⏭️ Skipped (already sent): denicho.morawiec@gmail.com
+2025-12-29 14:50:42,079 - INFO - ⏭️ Skipped (already sent): marczukmateusz8@gmail.com
+2025-12-29 14:50:42,080 - INFO - ⏭️ Skipped (already sent): piotrsarkowicz3@gmail.com
+2025-12-29 14:50:42,080 - INFO - ⏭️ Skipped (already sent): patrykuciniak985@gmail.com
+2025-12-29 14:50:42,080 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,080 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,081 - INFO - ⏭️ Skipped (already sent): marekbaran197@gmail.com
+2025-12-29 14:50:42,081 - INFO - ⏭️ Skipped (already sent): nowamaciej07@gmail.com
+2025-12-29 14:50:42,081 - INFO - ⏭️ Skipped (already sent): karolciaikrzysiek@gmail.com
+2025-12-29 14:50:42,082 - INFO - ⏭️ Skipped (already sent): pienkowskimichal909@gmail.com
+2025-12-29 14:50:42,082 - INFO - ⏭️ Skipped (already sent): tomaszzwolski14@gmail.com
+2025-12-29 14:50:42,083 - INFO - ⏭️ Skipped (already sent): bartoszdrzazga55@gmail.com
+2025-12-29 14:50:42,083 - INFO - ⏭️ Skipped (already sent): szulcernest667@gmail.com
+2025-12-29 14:50:42,084 - INFO - ⏭️ Skipped (already sent): iwonamichalczyk@op.pl
+2025-12-29 14:50:42,084 - INFO - ⏭️ Skipped (already sent): aleksa21-1993@wp.pl
+2025-12-29 14:50:42,085 - INFO - ⏭️ Skipped (already sent): filipoborzo2006@gmail.com
+2025-12-29 14:50:42,085 - INFO - ⏭️ Skipped (already sent): oliwer06doro@gmail.com
+2025-12-29 14:50:42,086 - INFO - ⏭️ Skipped (already sent): dawid.cecek@icloud.com
+2025-12-29 14:50:42,086 - INFO - ⏭️ Skipped (already sent): sebcio062@gmail.com
+2025-12-29 14:50:42,086 - INFO - ⏭️ Skipped (already sent): marcoxass@gmail.com
+2025-12-29 14:50:42,087 - INFO - ⏭️ Skipped (already sent): zkamil709@gmail.com
+2025-12-29 14:50:42,087 - INFO - ⏭️ Skipped (already sent): jeepmarcel@wp.pl
+2025-12-29 14:50:42,088 - INFO - ⏭️ Skipped (already sent): jakubpieczkowski4@gmail.com
+2025-12-29 14:50:42,088 - INFO - ⏭️ Skipped (already sent): marcinzieja9@gmail.com
+2025-12-29 14:50:42,088 - INFO - ⏭️ Skipped (already sent): pyr.mat2000@gmail.com
+2025-12-29 14:50:42,089 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:50:42,090 - INFO - ⏭️ Skipped (already sent): Styliczny@interia.pl
+2025-12-29 14:50:42,091 - INFO - ⏭️ Skipped (already sent): viov.net@gmail.com
+2025-12-29 14:50:42,092 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:50:42,093 - INFO - ⏭️ Skipped (already sent): mar.hna@wp.pl
+2025-12-29 14:50:42,094 - INFO - ⏭️ Skipped (already sent): sebek.kopacz06@o2.pl
+2025-12-29 14:50:42,094 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:50:42,094 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,094 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,095 - INFO - ⏭️ Skipped (already sent): drkamil2002@wp.pl
+2025-12-29 14:50:42,095 - INFO - ⏭️ Skipped (already sent): kamilakonieczna999@gmail.com
+2025-12-29 14:50:42,096 - INFO - ⏭️ Skipped (already sent): adrian.walczak0408@gmail.com
+2025-12-29 14:50:42,096 - INFO - ⏭️ Skipped (already sent): kasprzykk90@gmail.com
+2025-12-29 14:50:42,097 - INFO - ⏭️ Skipped (already sent): kacperrochowiak2003@gmail.com
+2025-12-29 14:50:42,097 - INFO - ⏭️ Skipped (already sent): kamedevgeniy@gmail.com
+2025-12-29 14:50:42,098 - INFO - ⏭️ Skipped (already sent): darysiu123@wp.pl
+2025-12-29 14:50:42,098 - INFO - ⏭️ Skipped (already sent): adamek230211@gmail.com
+2025-12-29 14:50:42,098 - INFO - ⏭️ Skipped (already sent): tomaszm639@gmail.com
+2025-12-29 14:50:42,099 - INFO - ⏭️ Skipped (already sent): mariusz_bee@wp.pl
+2025-12-29 14:50:42,099 - INFO - ⏭️ Skipped (already sent): Bartek.rybicki79789@interia.pl
+2025-12-29 14:50:42,100 - INFO - ⏭️ Skipped (already sent): mateusz10206@interia.pl
+2025-12-29 14:50:42,100 - INFO - ⏭️ Skipped (already sent): kacpersozoniuk03@gmail.com
+2025-12-29 14:50:42,100 - INFO - ⏭️ Skipped (already sent): Krzysztof4421309@interia.pl
+2025-12-29 14:50:42,102 - INFO - ⏭️ Skipped (already sent): chrzanek2006@gmail.com
+2025-12-29 14:50:42,102 - INFO - ⏭️ Skipped (already sent): rottef9@gmail.com
+2025-12-29 14:50:42,103 - INFO - ⏭️ Skipped (already sent): olafholderny@gmail.com
+2025-12-29 14:50:42,103 - INFO - ⏭️ Skipped (already sent): ziomale004@interia.pl
+2025-12-29 14:50:42,104 - INFO - ⏭️ Skipped (already sent): arturgruszczynski@spoko.pl
+2025-12-29 14:50:42,104 - INFO - ⏭️ Skipped (already sent): krykwi1981@gmail.com
+2025-12-29 14:50:42,105 - INFO - ⏭️ Skipped (already sent): newhome.1312@gmail.com
+2025-12-29 14:50:42,105 - INFO - ⏭️ Skipped (already sent): mail3445457@protonmail.com
+2025-12-29 14:50:42,106 - INFO - ⏭️ Skipped (already sent): lisowskapaula4@gmail.com
+2025-12-29 14:50:42,106 - INFO - ⏭️ Skipped (already sent): rado.r.siw@gmail.com
+2025-12-29 14:50:42,107 - INFO - ⏭️ Skipped (already sent): brozekwojciechowski13@gmail.com
+2025-12-29 14:50:42,109 - INFO - ⏭️ Skipped (already sent): kowalskid456@gmail.com
+2025-12-29 14:50:42,110 - INFO - ⏭️ Skipped (already sent): murbanski513@gmail.com
+2025-12-29 14:50:42,110 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,110 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,110 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:50:42,111 - INFO - ⏭️ Skipped (already sent): tomek.szkup-81@wp.pl
+2025-12-29 14:50:42,111 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,111 - INFO - ⏭️ Skipped (already sent): michal12matusiak@gmail.com
+2025-12-29 14:50:42,112 - INFO - ⏭️ Skipped (already sent): mail5044498@protonmail.com
+2025-12-29 14:50:42,113 - INFO - ⏭️ Skipped (already sent): escobrato152@gmail.com
+2025-12-29 14:50:42,113 - INFO - ⏭️ Skipped (already sent): fabian.lason12@icloud.com
+2025-12-29 14:50:42,114 - INFO - ⏭️ Skipped (already sent): elzbietamizerak7@gmail.com
+2025-12-29 14:50:42,115 - INFO - ⏭️ Skipped (already sent): rafal.murawski.223@gmail.com
+2025-12-29 14:50:42,115 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,115 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,116 - INFO - ⏭️ Skipped (already sent): komorowskibarman@gmail.com
+2025-12-29 14:50:42,116 - INFO - ⏭️ Skipped (already sent): borys.trzepacz@o2.pl
+2025-12-29 14:50:42,116 - INFO - ⏭️ Skipped (already sent): tomczakh@wp.pl
+2025-12-29 14:50:42,117 - INFO - ⏭️ Skipped (already sent): marcindolata70@gmail.com
+2025-12-29 14:50:42,117 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,117 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,117 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,118 - INFO - ⏭️ Skipped (already sent): wikikarolinak89@gmail.com
+2025-12-29 14:50:42,118 - INFO - ⏭️ Skipped (already sent): m.gajdzinski07@onet.pl
+2025-12-29 14:50:42,118 - INFO - ⏭️ Skipped (already sent): kacperbryszkiewski2@wp.pl
+2025-12-29 14:50:42,119 - INFO - ⏭️ Skipped (already sent): m.lesiecki@wp.pl
+2025-12-29 14:50:42,119 - INFO - ⏭️ Skipped (already sent): krzysztofkochmanski93@gmail.com
+2025-12-29 14:50:42,120 - INFO - ⏭️ Skipped (already sent): dj.kuberson10@gmail.com
+2025-12-29 14:50:42,120 - INFO - ⏭️ Skipped (already sent): kacpiii73@gmail.com
+2025-12-29 14:50:42,121 - INFO - ⏭️ Skipped (already sent): lobockiszymon@gmail.com
+2025-12-29 14:50:42,122 - INFO - ⏭️ Skipped (already sent): matix1566@gmail.com
+2025-12-29 14:50:42,122 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,123 - INFO - ⏭️ Skipped (already sent): patrykapk123@gmail.com
+2025-12-29 14:50:42,123 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,123 - INFO - ⏭️ Skipped (already sent): Szymonsudu2000@gmail.com
+2025-12-29 14:50:42,123 - INFO - ⏭️ Skipped (already sent): bobek860@wp.pl
+2025-12-29 14:50:42,125 - INFO - ⏭️ Skipped (already sent): krolkarol05@gmail.com
+2025-12-29 14:50:42,126 - INFO - ⏭️ Skipped (already sent): piotr180704@interia.pl
+2025-12-29 14:50:42,127 - INFO - ⏭️ Skipped (already sent): szymon.gorczynski350@gmail.com
+2025-12-29 14:50:42,127 - INFO - ⏭️ Skipped (already sent): ds1756463@gmail.com
+2025-12-29 14:50:42,128 - INFO - ⏭️ Skipped (already sent): oskarwojciechowski2004@gmail.com
+2025-12-29 14:50:42,129 - INFO - ⏭️ Skipped (already sent): piperzycasebastian@gmail.com
+2025-12-29 14:50:42,129 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,129 - INFO - ⏭️ Skipped (already sent): a.kalaska78@gmail.com
+2025-12-29 14:50:42,130 - INFO - ⏭️ Skipped (already sent): karolmasloelwski@gmail.com
+2025-12-29 14:50:42,131 - INFO - ⏭️ Skipped (already sent): stepien.dominik95@gmail.com
+2025-12-29 14:50:42,132 - INFO - ⏭️ Skipped (already sent): judyta.kowalewska@gmail.com
+2025-12-29 14:50:42,132 - INFO - ⏭️ Skipped (already sent): nikolas121@op.pl
+2025-12-29 14:50:42,132 - INFO - ⏭️ Skipped (already sent): bzdon68@gmail.com
+2025-12-29 14:50:42,134 - INFO - ⏭️ Skipped (already sent): annaolejnik@poczta.onet.eu
+2025-12-29 14:50:42,135 - INFO - ⏭️ Skipped (already sent): patrykuciniak985@gmail.com
+2025-12-29 14:50:42,136 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:50:42,137 - INFO - ⏭️ Skipped (already sent): lukasz_musiala@o2.pl
+2025-12-29 14:50:42,139 - INFO - ⏭️ Skipped (already sent): orkowskadominika@gmail.com
+2025-12-29 14:50:42,139 - INFO - ⏭️ Skipped (already sent): lukaszkramorz112@gmail.com
+2025-12-29 14:50:42,140 - INFO - ⏭️ Skipped (already sent): kacper.skrzypczak18@onet.pl
+2025-12-29 14:50:42,140 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:50:42,140 - INFO - ⏭️ Skipped (already sent): bartoszrom25@gmail.com
+2025-12-29 14:50:42,141 - INFO - ⏭️ Skipped (already sent): dawid.grykalowski@onet.pl
+2025-12-29 14:50:42,141 - INFO - ⏭️ Skipped (already sent): paulakaminska194@gmail.com
+2025-12-29 14:50:42,142 - INFO - ⏭️ Skipped (already sent): patryk.pie@wp.pl
+2025-12-29 14:50:42,142 - INFO - ⏭️ Skipped (already sent): jacekpluta3@gmail.com
+2025-12-29 14:50:42,142 - INFO - ⏭️ Skipped (already sent): robinek040@gmail.com
+2025-12-29 14:50:42,143 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,143 - INFO - ⏭️ Skipped (already sent): piotrwojciak597@gmail.com
+2025-12-29 14:50:42,148 - INFO - ⏭️ Skipped (already sent): patrykslojkow123@gmail.com
+2025-12-29 14:50:42,149 - INFO - ⏭️ Skipped (already sent): janmiet28@gmail.com
+2025-12-29 14:50:42,149 - INFO - ⏭️ Skipped (already sent): osioramanda@gmail.com
+2025-12-29 14:50:42,150 - INFO - ⏭️ Skipped (already sent): krystianmezydlo1997@wp.pl
+2025-12-29 14:50:42,152 - INFO - ⏭️ Skipped (already sent): nikodemmikolajczyk94@gmail.com
+2025-12-29 14:50:42,152 - INFO - ⏭️ Skipped (already sent): aspen@pseudonim.pl
+2025-12-29 14:50:42,153 - INFO - ⏭️ Skipped (already sent): aleksandrawoldan@gmail.com
+2025-12-29 14:50:42,153 - INFO - ⏭️ Skipped (already sent): adrian.kawecki1@wp.pl
+2025-12-29 14:50:42,154 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,154 - INFO - ⏭️ Skipped (already sent): damien19911991@gmail.com
+2025-12-29 14:50:42,155 - INFO - ⏭️ Skipped (already sent): wujektomaszek1@gmail.com
+2025-12-29 14:50:42,155 - INFO - ⏭️ Skipped (already sent): damian_stelmach07@o2.pl
+2025-12-29 14:50:42,156 - INFO - ⏭️ Skipped (already sent): pawlakwiktoria1@wp.pl
+2025-12-29 14:50:42,156 - INFO - ⏭️ Skipped (already sent): jakubwudarczyk96@gmail.com
+2025-12-29 14:50:42,157 - INFO - ⏭️ Skipped (already sent): grzybekbartek989@gmail.com
+2025-12-29 14:50:42,157 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:50:42,157 - INFO - ⏭️ Skipped (already sent): mateuszzalewski601@gmail.com
+2025-12-29 14:50:42,158 - INFO - ⏭️ Skipped (already sent): darioliverpool741125@gmail.com
+2025-12-29 14:50:42,158 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,158 - INFO - ⏭️ Skipped (already sent): neo20210529@gmail.com
+2025-12-29 14:50:42,158 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,159 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:50:42,159 - INFO - ⏭️ Skipped (already sent): wickanikola@gmail.com
+2025-12-29 14:50:42,160 - INFO - ⏭️ Skipped (already sent): damian.feliksiak@o2.pl
+2025-12-29 14:50:42,160 - INFO - ⏭️ Skipped (already sent): jakubbaumann007@gmail.com
+2025-12-29 14:50:42,160 - INFO - ⏭️ Skipped (already sent): krzysmichalski76@gmail.com
+2025-12-29 14:50:42,161 - INFO - ⏭️ Skipped (already sent): dawidos486@wp.pl
+2025-12-29 14:50:42,161 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,161 - INFO - ⏭️ Skipped (already sent): jarekkoldras8@gmail.com
+2025-12-29 14:50:42,162 - INFO - ⏭️ Skipped (already sent): darekkupczyk82@gmail.com
+2025-12-29 14:50:42,162 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,162 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,162 - INFO - ⏭️ Skipped (already sent): rado.r.siw@gmail.com
+2025-12-29 14:50:42,162 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,162 - INFO - ⏭️ Skipped (already sent): Justynanarloch2@gmail.com
+2025-12-29 14:50:42,163 - INFO - ⏭️ Skipped (already sent): mateusz.mroczek@vip.onet.pl
+2025-12-29 14:50:42,163 - INFO - ⏭️ Skipped (already sent): natantopor11@gmail.com
+2025-12-29 14:50:42,164 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:50:42,164 - INFO - ⏭️ Skipped (already sent): dawidkorsak6@gmail.com
+2025-12-29 14:50:42,165 - INFO - ⏭️ Skipped (already sent): damixmika@o2.pl
+2025-12-29 14:50:42,165 - INFO - ⏭️ Skipped (already sent): msrsevi@gmail.com
+2025-12-29 14:50:42,165 - INFO - ⏭️ Skipped (already sent): mail5236987@protonmail.com
+2025-12-29 14:50:42,166 - INFO - ⏭️ Skipped (already sent): trackidawid070@gmail.com
+2025-12-29 14:50:42,166 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,166 - INFO - ⏭️ Skipped (already sent): wojtekceglarek@interia.pl
+2025-12-29 14:50:42,167 - INFO - ⏭️ Skipped (already sent): danki39991@gmail.com
+2025-12-29 14:50:42,167 - INFO - ⏭️ Skipped (already sent): qvba111@gmail.com
+2025-12-29 14:50:42,168 - INFO - ⏭️ Skipped (already sent): patkahamerla1998@wp.pl
+2025-12-29 14:50:42,168 - INFO - ⏭️ Skipped (already sent): marekzajacmail@gmail.com
+2025-12-29 14:50:42,168 - INFO - ⏭️ Skipped (already sent): fwyczarski@gmail.com
+2025-12-29 14:50:42,168 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,169 - INFO - ⏭️ Skipped (already sent): lisdominik.2007@gmail.com
+2025-12-29 14:50:42,169 - INFO - ⏭️ Skipped (already sent): zdunskiartur95@gmail.com
+2025-12-29 14:50:42,170 - INFO - ⏭️ Skipped (already sent): suchym658@gmail.com
+2025-12-29 14:50:42,170 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,170 - INFO - ⏭️ Skipped (already sent): celt864@gmail.com
+2025-12-29 14:50:42,170 - INFO - ⏭️ Skipped (already sent): paulina-strzelec@o2.pl
+2025-12-29 14:50:42,171 - INFO - ⏭️ Skipped (already sent): anna.socha9752@gmail.com
+2025-12-29 14:50:42,171 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,172 - INFO - ⏭️ Skipped (already sent): czesiekch@vp.pl
+2025-12-29 14:50:42,172 - INFO - ⏭️ Skipped (already sent): robertboron1@gmail.com
+2025-12-29 14:50:42,172 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,173 - INFO - ⏭️ Skipped (already sent): zkamil709@gmail.com
+2025-12-29 14:50:42,173 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,173 - INFO - ⏭️ Skipped (already sent): kredka_kk@wp.pl
+2025-12-29 14:50:42,174 - INFO - ⏭️ Skipped (already sent): majewskikacper939@gmail.com
+2025-12-29 14:50:42,174 - INFO - ⏭️ Skipped (already sent): d6534531@gmail.com
+2025-12-29 14:50:42,175 - INFO - ⏭️ Skipped (already sent): k.trzaskowski02@gmail.com
+2025-12-29 14:50:42,175 - INFO - ⏭️ Skipped (already sent): bartoszgronowicz@gmail.com
+2025-12-29 14:50:42,176 - INFO - ⏭️ Skipped (already sent): Bartek.rybicki79789@interia.pl
+2025-12-29 14:50:42,176 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,176 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,176 - INFO - ⏭️ Skipped (already sent): robert.187@wp.pl
+2025-12-29 14:50:42,176 - INFO - ⏭️ Skipped (already sent): denisrubanski12072021@gmail.com
+2025-12-29 14:50:42,177 - INFO - ⏭️ Skipped (already sent): kacperb7892@gmail.com
+2025-12-29 14:50:42,177 - INFO - ⏭️ Skipped (already sent): kamiilomichalak2001@gmail.com
+2025-12-29 14:50:42,178 - INFO - ⏭️ Skipped (already sent): dymoala@gmail.com
+2025-12-29 14:50:42,179 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:50:42,179 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,179 - INFO - ⏭️ Skipped (already sent): blazejrudnik389@gmail.com
+2025-12-29 14:50:42,180 - INFO - ⏭️ Skipped (already sent): filipowiczlukasz878@gmail.com
+2025-12-29 14:50:42,180 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,180 - INFO - ⏭️ Skipped (already sent): kwiecien963@gmail.com
+2025-12-29 14:50:42,180 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,181 - INFO - ⏭️ Skipped (already sent): lukaszkramorz112@gmail.com
+2025-12-29 14:50:42,181 - INFO - ⏭️ Skipped (already sent): kosiedowskikamil@gmail.com
+2025-12-29 14:50:42,181 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:50:42,182 - INFO - ⏭️ Skipped (already sent): hubertmichal@interia.pl
+2025-12-29 14:50:42,182 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:50:42,182 - INFO - ⏭️ Skipped (already sent): damian.kazun863@onet.pl
+2025-12-29 14:50:42,183 - INFO - ⏭️ Skipped (already sent): andrzej.derkacz8@wp.pl
+2025-12-29 14:50:42,184 - INFO - ⏭️ Skipped (already sent): maria.pawlak12345@gmail.com
+2025-12-29 14:51:01,705 - INFO - ✅ Sent to: aspen@pseudonim.pl
+2025-12-29 14:51:01,848 - INFO - ✅ Sent to: majewskikacper939@gmail.com
+2025-12-29 14:51:02,048 - INFO - ✅ Sent to: patrykapk123@gmail.com
+2025-12-29 14:51:02,252 - INFO - ✅ Sent to: jakub.nowak0219@gmail.com
+2025-12-29 14:51:02,525 - INFO - ✅ Sent to: orszulikdamian123@gmail.com
+2025-12-29 14:51:04,163 - INFO - ✅ Sent to: 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:51:04,163 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:04,302 - INFO - ✅ Sent to: jacekjesion85@interia.pl
+2025-12-29 14:51:04,780 - INFO - ✅ Sent to: sewerynwiktor2@gmail.com
+2025-12-29 14:51:05,019 - INFO - ✅ Sent to: zkamil709@gmail.com
+2025-12-29 14:51:06,007 - INFO - ✅ Sent to: lukaszkramorz112@gmail.com
+2025-12-29 14:51:06,653 - INFO - ✅ Sent to: piotrsarkowicz3@gmail.com
+2025-12-29 14:51:06,929 - INFO - ✅ Sent to: m.gajdzinski07@onet.pl
+2025-12-29 14:51:07,269 - INFO - ✅ Sent to: karolciaikrzysiek@gmail.com
+2025-12-29 14:51:07,478 - INFO - ✅ Sent to: czesiekch@vp.pl
+2025-12-29 14:51:07,479 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:08,677 - INFO - ✅ Sent to: janmiet28@gmail.com
+2025-12-29 14:51:08,677 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:08,678 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:08,678 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:09,394 - INFO - ✅ Sent to: denicho.morawiec@gmail.com
+2025-12-29 14:51:09,728 - INFO - ✅ Sent to: Bartek.rybicki79789@interia.pl
+2025-12-29 14:51:10,014 - INFO - ✅ Sent to: iwonamichalczyk@op.pl
+2025-12-29 14:51:10,239 - INFO - ✅ Sent to: dawid.cecek@icloud.com
+2025-12-29 14:51:10,242 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:51:11,370 - INFO - ✅ Sent to: jarekkoldras8@gmail.com
+2025-12-29 14:51:11,371 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:11,877 - INFO - ✅ Sent to: fwyczarski@gmail.com
+2025-12-29 14:51:11,878 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:11,878 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:12,461 - INFO - ✅ Sent to: marekbaran197@gmail.com
+2025-12-29 14:51:12,461 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:12,461 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:12,971 - INFO - ✅ Sent to: neo20210529@gmail.com
+2025-12-29 14:51:12,977 - INFO - ⏭️ Skipped (already sent): orszulikdamian123@gmail.com
+2025-12-29 14:51:12,980 - INFO - ⏭️ Skipped (already sent): jacekjesion85@interia.pl
+2025-12-29 14:51:13,177 - INFO - ✅ Sent to: miloszgwizdon3@gmail.com
+2025-12-29 14:51:13,790 - INFO - ✅ Sent to: danki39991@gmail.com
+2025-12-29 14:51:13,794 - INFO - ⏭️ Skipped (already sent): jakub.nowak0219@gmail.com
+2025-12-29 14:51:14,337 - INFO - ✅ Sent to: adrian.kawecki1@wp.pl
+2025-12-29 14:51:14,747 - INFO - ✅ Sent to: tomaszm639@gmail.com
+2025-12-29 14:51:15,469 - INFO - ✅ Sent to: szympixx@gmail.com
+2025-12-29 14:51:15,882 - INFO - ✅ Sent to: ivangavadzun@gmail.com
+2025-12-29 14:51:15,887 - INFO - ⏭️ Skipped (already sent): miloszgwizdon3@gmail.com
+2025-12-29 14:51:16,389 - INFO - ✅ Sent to: namektoja1916@gmail.com
+2025-12-29 14:51:16,389 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:16,796 - INFO - ✅ Sent to: domel221@vp.pl
+2025-12-29 14:51:16,797 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:17,309 - INFO - ✅ Sent to: adrianmosiej7777@gmail.com
+2025-12-29 14:51:17,309 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:17,309 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:17,991 - INFO - ✅ Sent to: kamilblacha4@gmail.com
+2025-12-29 14:51:17,991 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:18,438 - INFO - ✅ Sent to: daniel.slabosz@onet.eu
+2025-12-29 14:51:18,438 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:18,844 - INFO - ✅ Sent to: dominikbudzikowski@gmail.com
+2025-12-29 14:51:19,121 - INFO - ✅ Sent to: piotrek24kurzyk@gmail.com
+2025-12-29 14:51:19,122 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:19,122 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:19,768 - INFO - ✅ Sent to: Galatustm@gmail.com
+2025-12-29 14:51:19,768 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:20,690 - INFO - ✅ Sent to: kubanek.igor2003@o2.pl
+2025-12-29 14:51:20,690 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:21,095 - INFO - ✅ Sent to: malutka21151@gmail.com
+2025-12-29 14:51:21,374 - INFO - ✅ Sent to: Rakpatryk733@gmail.com
+2025-12-29 14:51:21,811 - INFO - ✅ Sent to: piotr.stankiewicz19@gmail.com
+2025-12-29 14:51:21,811 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:22,393 - INFO - ✅ Sent to: mail3873830@protonmail.com
+2025-12-29 14:51:23,142 - INFO - ✅ Sent to: przemyslawdach84@gmail.com
+2025-12-29 14:51:23,520 - INFO - ✅ Sent to: pawel97155@gmail.com
+2025-12-29 14:51:23,523 - INFO - ⏭️ Skipped (already sent): piotrek24kurzyk@gmail.com
+2025-12-29 14:51:23,526 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:51:23,527 - INFO - ⏭️ Skipped (already sent): sewerynwiktor2@gmail.com
+2025-12-29 14:51:24,063 - INFO - ✅ Sent to: gabrieladyba0106@wp.pl
+2025-12-29 14:51:24,440 - INFO - ✅ Sent to: krzysztofheyduk536@gmail.com
+2025-12-29 14:51:24,783 - INFO - ✅ Sent to: konradpalkowski0@gmail.com
+2025-12-29 14:51:25,473 - INFO - ✅ Sent to: albert.moson@interia.pl
+2025-12-29 14:51:25,477 - INFO - ⏭️ Skipped (already sent): denicho.morawiec@gmail.com
+2025-12-29 14:51:25,478 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:25,909 - INFO - ✅ Sent to: ttomek.tz23@gmail.com
+2025-12-29 14:51:25,916 - INFO - ⏭️ Skipped (already sent): piotrsarkowicz3@gmail.com
+2025-12-29 14:51:26,419 - INFO - ✅ Sent to: kubamajewski201@icloud.com
+2025-12-29 14:51:26,420 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:26,424 - INFO - ⏭️ Skipped (already sent): marekbaran197@gmail.com
+2025-12-29 14:51:26,830 - INFO - ✅ Sent to: wiktorgrzymkowski11@wp.pl
+2025-12-29 14:51:26,833 - INFO - ⏭️ Skipped (already sent): karolciaikrzysiek@gmail.com
+2025-12-29 14:51:27,450 - INFO - ✅ Sent to: mateuszstacewicz145@gmail.com
+2025-12-29 14:51:27,450 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:27,451 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:27,928 - INFO - ✅ Sent to: marczukmateusz8@gmail.com
+2025-12-29 14:51:28,365 - INFO - ✅ Sent to: patrykuciniak985@gmail.com
+2025-12-29 14:51:28,880 - INFO - ✅ Sent to: nowamaciej07@gmail.com
+2025-12-29 14:51:28,884 - INFO - ⏭️ Skipped (already sent): iwonamichalczyk@op.pl
+2025-12-29 14:51:29,288 - INFO - ✅ Sent to: pienkowskimichal909@gmail.com
+2025-12-29 14:51:29,802 - INFO - ✅ Sent to: tomaszzwolski14@gmail.com
+2025-12-29 14:51:30,411 - INFO - ✅ Sent to: bartoszdrzazga55@gmail.com
+2025-12-29 14:51:30,416 - INFO - ⏭️ Skipped (already sent): dawid.cecek@icloud.com
+2025-12-29 14:51:30,896 - INFO - ✅ Sent to: szulcernest667@gmail.com
+2025-12-29 14:51:31,541 - INFO - ✅ Sent to: aleksa21-1993@wp.pl
+2025-12-29 14:51:31,546 - INFO - ⏭️ Skipped (already sent): zkamil709@gmail.com
+2025-12-29 14:51:32,048 - INFO - ✅ Sent to: filipoborzo2006@gmail.com
+2025-12-29 14:51:32,765 - INFO - ✅ Sent to: sebcio062@gmail.com
+2025-12-29 14:51:33,346 - INFO - ✅ Sent to: marcoxass@gmail.com
+2025-12-29 14:51:33,460 - INFO - ✅ Sent to: oliwer06doro@gmail.com
+2025-12-29 14:51:33,479 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:51:34,066 - INFO - ✅ Sent to: jeepmarcel@wp.pl
+2025-12-29 14:51:34,680 - INFO - ✅ Sent to: jakubpieczkowski4@gmail.com
+2025-12-29 14:51:34,683 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:51:35,226 - INFO - ✅ Sent to: marcinzieja9@gmail.com
+2025-12-29 14:51:35,837 - INFO - ✅ Sent to: pyr.mat2000@gmail.com
+2025-12-29 14:51:35,839 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:51:36,012 - INFO - ✅ Sent to: Styliczny@interia.pl
+2025-12-29 14:51:36,563 - INFO - ✅ Sent to: viov.net@gmail.com
+2025-12-29 14:51:37,477 - INFO - ✅ Sent to: sebek.kopacz06@o2.pl
+2025-12-29 14:51:38,160 - INFO - ✅ Sent to: mar.hna@wp.pl
+2025-12-29 14:51:38,160 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:38,161 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:38,369 - INFO - ✅ Sent to: drkamil2002@wp.pl
+2025-12-29 14:51:38,673 - INFO - ✅ Sent to: kamilakonieczna999@gmail.com
+2025-12-29 14:51:39,082 - INFO - ✅ Sent to: adrian.walczak0408@gmail.com
+2025-12-29 14:51:40,516 - INFO - ✅ Sent to: kacperrochowiak2003@gmail.com
+2025-12-29 14:51:40,518 - INFO - ⏭️ Skipped (already sent): tomaszm639@gmail.com
+2025-12-29 14:51:40,928 - INFO - ✅ Sent to: kasprzykk90@gmail.com
+2025-12-29 14:51:40,932 - INFO - ⏭️ Skipped (already sent): Bartek.rybicki79789@interia.pl
+2025-12-29 14:51:41,064 - INFO - ✅ Sent to: kamedevgeniy@gmail.com
+2025-12-29 14:51:41,337 - INFO - ✅ Sent to: darysiu123@wp.pl
+2025-12-29 14:51:42,766 - INFO - ✅ Sent to: adamek230211@gmail.com
+2025-12-29 14:51:43,470 - INFO - ✅ Sent to: kacpersozoniuk03@gmail.com
+2025-12-29 14:51:43,723 - INFO - ✅ Sent to: mateusz10206@interia.pl
+2025-12-29 14:51:44,027 - INFO - ✅ Sent to: Krzysztof4421309@interia.pl
+2025-12-29 14:51:45,294 - INFO - ✅ Sent to: chrzanek2006@gmail.com
+2025-12-29 14:51:45,590 - INFO - ✅ Sent to: mariusz_bee@wp.pl
+2025-12-29 14:51:45,977 - INFO - ✅ Sent to: rottef9@gmail.com
+2025-12-29 14:51:46,434 - INFO - ✅ Sent to: olafholderny@gmail.com
+2025-12-29 14:51:46,645 - INFO - ✅ Sent to: ziomale004@interia.pl
+2025-12-29 14:51:47,743 - INFO - ✅ Sent to: arturgruszczynski@spoko.pl
+2025-12-29 14:51:48,389 - INFO - ✅ Sent to: krykwi1981@gmail.com
+2025-12-29 14:51:48,598 - INFO - ✅ Sent to: newhome.1312@gmail.com
+2025-12-29 14:51:49,104 - INFO - ✅ Sent to: mail3445457@protonmail.com
+2025-12-29 14:51:49,414 - INFO - ✅ Sent to: lisowskapaula4@gmail.com
+2025-12-29 14:51:49,419 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:51:50,231 - INFO - ✅ Sent to: rado.r.siw@gmail.com
+2025-12-29 14:51:51,051 - INFO - ✅ Sent to: brozekwojciechowski13@gmail.com
+2025-12-29 14:51:51,356 - INFO - ✅ Sent to: kowalskid456@gmail.com
+2025-12-29 14:51:51,357 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:51,357 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:51,662 - INFO - ✅ Sent to: murbanski513@gmail.com
+2025-12-29 14:51:52,080 - INFO - ✅ Sent to: tomek.szkup-81@wp.pl
+2025-12-29 14:51:52,081 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:52,997 - INFO - ✅ Sent to: michal12matusiak@gmail.com
+2025-12-29 14:51:53,608 - INFO - ✅ Sent to: mail5044498@protonmail.com
+2025-12-29 14:51:53,865 - INFO - ✅ Sent to: escobrato152@gmail.com
+2025-12-29 14:51:54,225 - INFO - ✅ Sent to: fabian.lason12@icloud.com
+2025-12-29 14:51:54,837 - INFO - ✅ Sent to: elzbietamizerak7@gmail.com
+2025-12-29 14:51:55,347 - INFO - ✅ Sent to: rafal.murawski.223@gmail.com
+2025-12-29 14:51:55,347 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:55,348 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:55,962 - INFO - ✅ Sent to: komorowskibarman@gmail.com
+2025-12-29 14:51:55,965 - INFO - ⏭️ Skipped (already sent): m.gajdzinski07@onet.pl
+2025-12-29 14:51:56,482 - INFO - ✅ Sent to: borys.trzepacz@o2.pl
+2025-12-29 14:51:56,681 - INFO - ✅ Sent to: tomczakh@wp.pl
+2025-12-29 14:51:56,681 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:56,682 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:56,682 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:51:57,808 - INFO - ✅ Sent to: wikikarolinak89@gmail.com
+2025-12-29 14:51:58,168 - INFO - ✅ Sent to: marcindolata70@gmail.com
+2025-12-29 14:51:58,523 - INFO - ✅ Sent to: kacperbryszkiewski2@wp.pl
+2025-12-29 14:51:59,046 - INFO - ✅ Sent to: m.lesiecki@wp.pl
+2025-12-29 14:51:59,339 - INFO - ✅ Sent to: krzysztofkochmanski93@gmail.com
+2025-12-29 14:51:59,340 - INFO - ⏭️ Skipped (already sent): patrykapk123@gmail.com
+2025-12-29 14:52:00,618 - INFO - ✅ Sent to: dj.kuberson10@gmail.com
+2025-12-29 14:52:01,079 - INFO - ✅ Sent to: kacpiii73@gmail.com
+2025-12-29 14:52:01,296 - INFO - ✅ Sent to: lobockiszymon@gmail.com
+2025-12-29 14:52:01,297 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:01,797 - INFO - ✅ Sent to: matix1566@gmail.com
+2025-12-29 14:52:01,797 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:02,006 - INFO - ✅ Sent to: Szymonsudu2000@gmail.com
+2025-12-29 14:52:03,077 - INFO - ✅ Sent to: bobek860@wp.pl
+2025-12-29 14:52:03,537 - INFO - ✅ Sent to: krolkarol05@gmail.com
+2025-12-29 14:52:03,954 - INFO - ✅ Sent to: piotr180704@interia.pl
+2025-12-29 14:52:04,303 - INFO - ✅ Sent to: szymon.gorczynski350@gmail.com
+2025-12-29 14:52:04,465 - INFO - ✅ Sent to: ds1756463@gmail.com
+2025-12-29 14:52:05,593 - INFO - ✅ Sent to: oskarwojciechowski2004@gmail.com
+2025-12-29 14:52:06,099 - INFO - ✅ Sent to: piperzycasebastian@gmail.com
+2025-12-29 14:52:06,099 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:06,508 - INFO - ✅ Sent to: a.kalaska78@gmail.com
+2025-12-29 14:52:06,926 - INFO - ✅ Sent to: karolmasloelwski@gmail.com
+2025-12-29 14:52:07,128 - INFO - ✅ Sent to: stepien.dominik95@gmail.com
+2025-12-29 14:52:07,131 - INFO - ⏭️ Skipped (already sent): patrykuciniak985@gmail.com
+2025-12-29 14:52:07,133 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:52:08,248 - INFO - ✅ Sent to: judyta.kowalewska@gmail.com
+2025-12-29 14:52:08,547 - ERROR - ❌ Failed to send to lukasz_musiala@o2.pl: Connection unexpectedly closed
+2025-12-29 14:52:08,548 - INFO - ⏭️ Skipped (already sent): lukaszkramorz112@gmail.com
+2025-12-29 14:52:09,674 - ERROR - ❌ Failed to send to orkowskadominika@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:09,675 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:52:09,776 - ERROR - ❌ Failed to send to kacper.skrzypczak18@onet.pl: Connection unexpectedly closed
+2025-12-29 14:52:09,783 - INFO - ✅ Sent to: bzdon68@gmail.com
+2025-12-29 14:52:09,896 - INFO - ✅ Sent to: nikolas121@op.pl
+2025-12-29 14:52:10,295 - INFO - ✅ Sent to: annaolejnik@poczta.onet.eu
+2025-12-29 14:52:11,005 - ERROR - ❌ Failed to send to bartoszrom25@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:11,056 - ERROR - ❌ Failed to send to dawid.grykalowski@onet.pl: Connection unexpectedly closed
+2025-12-29 14:52:11,057 - ERROR - ❌ Failed to send to paulakaminska194@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:11,417 - ERROR - ❌ Failed to send to patryk.pie@wp.pl: Connection unexpectedly closed
+2025-12-29 14:52:11,419 - INFO - ⏭️ Skipped (already sent): janmiet28@gmail.com
+2025-12-29 14:52:11,626 - ERROR - ❌ Failed to send to jacekpluta3@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:11,626 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:12,284 - ERROR - ❌ Failed to send to robinek040@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:12,344 - ERROR - ❌ Failed to send to piotrwojciak597@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:12,344 - ERROR - ❌ Failed to send to patrykslojkow123@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:12,346 - INFO - ⏭️ Skipped (already sent): aspen@pseudonim.pl
+2025-12-29 14:52:12,349 - INFO - ⏭️ Skipped (already sent): adrian.kawecki1@wp.pl
+2025-12-29 14:52:12,744 - ERROR - ❌ Failed to send to osioramanda@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:12,898 - ERROR - ❌ Failed to send to krystianmezydlo1997@wp.pl: Connection unexpectedly closed
+2025-12-29 14:52:13,512 - ERROR - ❌ Failed to send to nikodemmikolajczyk94@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:13,572 - ERROR - ❌ Failed to send to damien19911991@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:13,573 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:13,573 - ERROR - ❌ Failed to send to aleksandrawoldan@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:14,128 - ERROR - ❌ Failed to send to damian_stelmach07@o2.pl: Connection unexpectedly closed
+2025-12-29 14:52:14,130 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:52:14,187 - ERROR - ❌ Failed to send to wujektomaszek1@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:14,801 - ERROR - ❌ Failed to send to pawlakwiktoria1@wp.pl: Connection unexpectedly closed
+2025-12-29 14:52:14,803 - INFO - ⏭️ Skipped (already sent): neo20210529@gmail.com
+2025-12-29 14:52:14,805 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:52:14,899 - ERROR - ❌ Failed to send to jakubwudarczyk96@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:14,900 - ERROR - ❌ Failed to send to grzybekbartek989@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:14,900 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:15,514 - ERROR - ❌ Failed to send to mateuszzalewski601@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:15,515 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:15,517 - ERROR - ❌ Failed to send to darioliverpool741125@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:16,128 - ERROR - ❌ Failed to send to wickanikola@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:16,131 - INFO - ⏭️ Skipped (already sent): jarekkoldras8@gmail.com
+2025-12-29 14:52:16,330 - ERROR - ❌ Failed to send to jakubbaumann007@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:16,331 - ERROR - ❌ Failed to send to damian.feliksiak@o2.pl: Connection unexpectedly closed
+2025-12-29 14:52:16,333 - INFO - ⏭️ Skipped (already sent): rado.r.siw@gmail.com
+2025-12-29 14:52:16,333 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:16,944 - ERROR - ❌ Failed to send to krzysmichalski76@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:16,944 - ERROR - ❌ Failed to send to dawidos486@wp.pl: Connection unexpectedly closed
+2025-12-29 14:52:16,945 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:16,945 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:16,948 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:52:16,948 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:17,455 - ERROR - ❌ Failed to send to darekkupczyk82@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:17,662 - ERROR - ❌ Failed to send to mateusz.mroczek@vip.onet.pl: Connection unexpectedly closed
+2025-12-29 14:52:17,662 - ERROR - ❌ Failed to send to Justynanarloch2@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:18,276 - ERROR - ❌ Failed to send to natantopor11@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:18,277 - ERROR - ❌ Failed to send to dawidkorsak6@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:18,786 - ERROR - ❌ Failed to send to damixmika@o2.pl: Connection unexpectedly closed
+2025-12-29 14:52:18,788 - INFO - ⏭️ Skipped (already sent): danki39991@gmail.com
+2025-12-29 14:52:18,991 - ERROR - ❌ Failed to send to mail5236987@protonmail.com: Connection unexpectedly closed
+2025-12-29 14:52:18,992 - ERROR - ❌ Failed to send to msrsevi@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:18,992 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:19,608 - ERROR - ❌ Failed to send to wojtekceglarek@interia.pl: Connection unexpectedly closed
+2025-12-29 14:52:19,608 - ERROR - ❌ Failed to send to trackidawid070@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:19,609 - INFO - ⏭️ Skipped (already sent): fwyczarski@gmail.com
+2025-12-29 14:52:20,118 - ERROR - ❌ Failed to send to qvba111@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:20,271 - ERROR - ❌ Failed to send to marekzajacmail@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:20,271 - ERROR - ❌ Failed to send to patkahamerla1998@wp.pl: Connection unexpectedly closed
+2025-12-29 14:52:20,272 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:20,836 - ERROR - ❌ Failed to send to lisdominik.2007@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:20,838 - ERROR - ❌ Failed to send to zdunskiartur95@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:20,840 - INFO - ⏭️ Skipped (already sent): czesiekch@vp.pl
+2025-12-29 14:52:20,840 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:21,449 - ERROR - ❌ Failed to send to suchym658@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:21,451 - INFO - ⏭️ Skipped (already sent): zkamil709@gmail.com
+2025-12-29 14:52:21,500 - ERROR - ❌ Failed to send to celt864@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:21,500 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:21,500 - ERROR - ❌ Failed to send to paulina-strzelec@o2.pl: Connection unexpectedly closed
+2025-12-29 14:52:21,502 - INFO - ⏭️ Skipped (already sent): majewskikacper939@gmail.com
+2025-12-29 14:52:21,502 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:22,115 - ERROR - ❌ Failed to send to anna.socha9752@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:22,115 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:22,115 - ERROR - ❌ Failed to send to robertboron1@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:22,119 - INFO - ⏭️ Skipped (already sent): Bartek.rybicki79789@interia.pl
+2025-12-29 14:52:22,934 - ERROR - ❌ Failed to send to kredka_kk@wp.pl: Connection unexpectedly closed
+2025-12-29 14:52:22,935 - ERROR - ❌ Failed to send to d6534531@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:22,935 - ERROR - ❌ Failed to send to k.trzaskowski02@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:23,607 - ERROR - ❌ Failed to send to robert.187@wp.pl: Connection unexpectedly closed
+2025-12-29 14:52:23,608 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:23,608 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:23,607 - ERROR - ❌ Failed to send to bartoszgronowicz@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:23,612 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:52:24,222 - ERROR - ❌ Failed to send to kamiilomichalak2001@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:24,223 - ERROR - ❌ Failed to send to kacperb7892@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:24,225 - ERROR - ❌ Failed to send to denisrubanski12072021@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:24,229 - INFO - ⏭️ Skipped (already sent): lukaszkramorz112@gmail.com
+2025-12-29 14:52:24,229 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:24,933 - ERROR - ❌ Failed to send to dymoala@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:24,939 - ERROR - ❌ Failed to send to blazejrudnik389@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:24,939 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:24,941 - INFO - ⏭️ Skipped (already sent): 123HannahOunengmvynpef.qm@inscrlab.com
+2025-12-29 14:52:24,941 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:25,547 - ERROR - ❌ Failed to send to filipowiczlukasz878@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:25,547 - ERROR - ❌ Failed to send to kwiecien963@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:25,548 - WARNING - ⚠️ Skipped invalid email: None
+2025-12-29 14:52:25,548 - ERROR - ❌ Failed to send to kosiedowskikamil@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:26,364 - ERROR - ❌ Failed to send to hubertmichal@interia.pl: Connection unexpectedly closed
+2025-12-29 14:52:26,367 - ERROR - ❌ Failed to send to damian.kazun863@onet.pl: Connection unexpectedly closed
+2025-12-29 14:52:26,978 - ERROR - ❌ Failed to send to maria.pawlak12345@gmail.com: Connection unexpectedly closed
+2025-12-29 14:52:26,980 - ERROR - ❌ Failed to send to andrzej.derkacz8@wp.pl: Connection unexpectedly closed
+2025-12-29 14:53:52,696 - ERROR - 🔌 Błąd łączenia z serwerem: Connection unexpectedly closed
+2025-12-29 14:54:08,228 - INFO - 🚀 Starting campaign for 299 lines...
+2025-12-29 14:54:10,002 - ERROR - ❌ Failed to send to aspen@pseudonim.pl: Connection unexpectedly closed
+2025-12-29 14:54:11,327 - ERROR - ❌ Failed to send to majewskikacper939@gmail.com: Connection unexpectedly closed
+2025-12-29 14:54:12,758 - ERROR - ❌ Failed to send to jakub.nowak0219@gmail.com: Connection unexpectedly closed
