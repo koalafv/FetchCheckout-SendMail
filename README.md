@@ -59,45 +59,44 @@ Jasne, oto dokładnie ta brakująca część w formacie Markdown.
 
 Skopiuj poniższy kod i wklej go na samym dole swojego pliku (zaraz pod linijką python main.py). Dodałem na początku znaczniki zamykające blok kodu (```), żeby całość się nie "rozjechała".
 
-🍪 Rozwiązywanie problemów: Błąd 401 (Unauthorized)
-Jeśli w konsoli zobaczysz błąd 401, oznacza to, że Twoja sesja wygasła. Musisz ręcznie pobrać nowe HEADERS (nagłówki) oraz COOKIES (ciasteczka) i podmienić je w kodzie.
 
-Jak pobrać nowe dane logowania?
-1. Wejdź w przykładowe zamówienie Otwórz w przeglądarce dowolny link do checkoutu w panelu admina, np.: 🔗 https://admin.shopify.com/store/suwg0m-ia/checkouts/66414504411461
+## 🍪 Rozwiązywanie problemów: Błąd 401 (Unauthorized)
 
-2. Otwórz narzędzia deweloperskie Kliknij prawym przyciskiem myszy na stronie i wybierz Zbadaj (Inspect) lub wciśnij klawisz F12.
+Jeśli w konsoli zobaczysz błąd **401**, oznacza to, że Twoja sesja wygasła. Musisz ręcznie pobrać nowe `HEADERS` (nagłówki) oraz `COOKIES` (ciasteczka) i podmienić je w kodzie.
 
-3. Skopiuj zapytanie jako cURL
+### 🛠️ Jak pobrać nowe dane logowania?
 
-Przejdź do zakładki Network (Sieć).
+1. **Wejdź w przykładowe zamówienie**
+   Otwórz w przeglądarce dowolny link do checkoutu w panelu admina, np.:
+   🔗 `https://admin.shopify.com/store/NAZWA-SKLEPU/checkouts/66414504411461`
 
-Odśwież stronę (F5), aby załadowały się zapytania.
+2. **Otwórz narzędzia deweloperskie**
+   Kliknij prawym przyciskiem myszy na stronie i wybierz **Zbadaj** (Inspect) lub wciśnij klawisz `F12`.
 
-Znajdź główny request (zazwyczaj na samej górze listy).
+3. **Skopiuj zapytanie jako cURL**
+   * Przejdź do zakładki **Network** (Sieć).
+   * Odśwież stronę (`F5`), aby załadowały się zapytania.
+   * Znajdź główny request (zazwyczaj na samej górze listy, często ma nazwę taką jak ID zamówienia).
+   * Kliknij na niego **Prawym Przyciskiem Myszy** → **Copy** → **Copy as cURL**.
 
-Kliknij na niego Prawym Przyciskiem Myszy -> Copy -> Copy as cURL.
+   👇 **Zobacz na screenie jak to zrobić:**
+   <img width="100%" alt="Poradnik cookies and headers" src="[https://github.com/user-attachments/assets/05c30417-9b49-43e9-951d-59cad8ed9e5a](https://github.com/user-attachments/assets/05c30417-9b49-43e9-951d-59cad8ed9e5a)" />
 
-👇 Zobacz na screenie jak to zrobić:
+4. **Przekonwertuj cURL na Python**
+   * Wejdź na stronę: 👉 [curlconverter.com](https://curlconverter.com)
+   * Wklej skopiowany kod w pole tekstowe.
+   * Wybierz język **Python**.
 
+5. **Zaktualizuj skrypty**
+   Strona wygeneruje kod. Skopiuj z niego **tylko** fragmenty:
+   * `cookies = { ... }`
+   * `headers = { ... }`
 
-<img width="100%" alt="Poradnik cookies and headers" src="https://github.com/user-attachments/assets/05c30417-9b49-43e9-951d-59cad8ed9e5a" />
+   Następnie otwórz plik `SendMailsv2.py` (lub `main.py`) i podmień stare wartości na nowe.
 
+---
 
-4. Przekonwertuj cURL na Python
-
-Wejdź na stronę: 👉 curlconverter.com
-
-Wklej skopiowany kod w pole tekstowe.
-
-Wybierz język Python.
-
-5. Zaktualizuj skrypty Strona wygeneruje kod. Skopiuj z niego tylko fragmenty cookies = { ... } oraz headers = { ... }. Następnie otwórz plik SendMailsv2.py (lub main.py) i podmień stare wartości na nowe.
-
-
-⚠️ Ważne informacje
-
-Skrypt korzysta z aktywnej sesji Shopify Admin
-
-Cookies wygasają – okresowo trzeba je odnawiać
-
-Projekt nie używa oficjalnego Shopify
+> ### ⚠️ Ważne informacje
+> * Skrypt korzysta z **aktywnej sesji Shopify Admin**.
+> * **Cookies wygasają** – okresowo trzeba je odnawiać (powtarzając powyższe kroki).
+> * Projekt nie używa oficjalnego API Shopify, lecz symuluje działanie przeglądarki.
