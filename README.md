@@ -18,6 +18,7 @@ Zrozumienie plików w repozytorium:
 | `ids.txt` | 📥 **Input:** Plik wejściowy, w którym umieszczamy numery ID zamówień. |
 | `results.txt` | 📤 **Output:** Plik generowany automatycznie, zawiera przetworzone dane gotowe do wysyłki. |
 | `main.py` | ⚙️ **Alternatywa:** Alternatywny skrypt startowy dla procesu wysyłki. |
+| `emails.db` | 📤 **Baza:** Plik generowany automatycznie, zawiera tabele z mail'ami do unikniecia wysłania do 2 razy do tej samej osoby |
 
 ---
 
